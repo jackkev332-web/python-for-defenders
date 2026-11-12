@@ -2,7 +2,7 @@
 
 Python for Defenders · Chapter 1: Foundations (Novice)
 
-Video: coming soon
+Video: https://youtu.be/4DENK-4qAEs
 
 ## Run it
 
