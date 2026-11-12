@@ -9,7 +9,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 
 | # | Episode | Level | Code | Video |
 |---|---|---|---|---|
-| 1 | Your first Python script: read a server log | Novice | [ch1/ep01](ch1/ep01) | coming soon |
+| 1 | Your first Python script: read a server log | Novice | [ch1/ep01](ch1/ep01) | [watch](https://youtu.be/7XWZmS8Xaio) |
 
 ## How to use
 
