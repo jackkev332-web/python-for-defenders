@@ -13,6 +13,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 2 | Strings and if: is this a failed login? | Novice | [ch1/ep02](ch1/ep02) | [watch](https://youtu.be/4DENK-4qAEs) |
 | 3 | Loops: check all 1,528 lines | Novice | [ch1/ep03](ch1/ep03) | [watch](https://youtu.be/z_LfXlipr4w) |
 | 4 | Errors and AI: read the red text, then check the AI | Novice | [ch1/ep04](ch1/ep04) | [watch](https://youtu.be/-7y-7skhn-w) |
+| 5 | Split strings: who is attacking? | Novice | [ch1/ep05](ch1/ep05) | coming soon |
 
 ## How to use
 
