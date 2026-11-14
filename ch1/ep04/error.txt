@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "watchdog.py", line 2, in <module>
+    with open("practice_auth.log") as log:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'practice_auth.log'
