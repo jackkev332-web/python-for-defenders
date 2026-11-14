@@ -11,7 +11,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 |---|---|---|---|---|
 | 1 | Your first Python script: read a server log | Novice | [ch1/ep01](ch1/ep01) | [watch](https://youtu.be/7XWZmS8Xaio) |
 | 2 | Strings and if: is this a failed login? | Novice | [ch1/ep02](ch1/ep02) | [watch](https://youtu.be/4DENK-4qAEs) |
-| 3 | Loops: check all 1,528 lines | Novice | [ch1/ep03](ch1/ep03) | coming soon |
+| 3 | Loops: check all 1,528 lines | Novice | [ch1/ep03](ch1/ep03) | [watch](https://youtu.be/z_LfXlipr4w) |
 
 ## How to use
 
