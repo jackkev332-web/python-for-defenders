@@ -16,6 +16,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 5 | Split strings: who is attacking? | Novice | [ch1/ep05](ch1/ep05) | [watch](https://youtu.be/qRs0K45AMrY) |
 | 6 | Dictionaries: count attacks per IP | Novice | [ch1/ep06](ch1/ep06) | [watch](https://youtu.be/RbySNpZs8z8) |
 | 7 | Functions: Watchdog v1.0 | Novice | [ch1/ep07](ch1/ep07) | [watch](https://youtu.be/GBdoB1Hg1Oo) |
+| 8 | Counter: count anything in one line | Beginner | [ch2/ep08](ch2/ep08) | coming soon |
 
 ## How to use
 
