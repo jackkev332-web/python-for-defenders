@@ -15,6 +15,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 4 | Errors and AI: read the red text, then check the AI | Novice | [ch1/ep04](ch1/ep04) | [watch](https://youtu.be/-7y-7skhn-w) |
 | 5 | Split strings: who is attacking? | Novice | [ch1/ep05](ch1/ep05) | [watch](https://youtu.be/qRs0K45AMrY) |
 | 6 | Dictionaries: count attacks per IP | Novice | [ch1/ep06](ch1/ep06) | [watch](https://youtu.be/RbySNpZs8z8) |
+| 7 | Functions: Watchdog v1.0 | Novice | [ch1/ep07](ch1/ep07) | coming soon |
 
 ## How to use
 
