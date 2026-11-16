@@ -28,6 +28,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 17 | Web server logs: who is scanning your site? | Intermediate | [ch3/ep17](ch3/ep17) | coming soon |
 | 18 | Alerts: let the watchdog call you | Intermediate | [ch3/ep18](ch3/ep18) | coming soon |
 | 19 | Secrets scanner: catch leaked keys before you share | Intermediate | [ch3/ep19](ch3/ep19) | coming soon |
+| 20 | Machine learning: unusual is not malicious | Intermediate | [ch3/ep20](ch3/ep20) | coming soon |
 
 ## How to use
 
