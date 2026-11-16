@@ -20,6 +20,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 9 | Sets and f-strings: a real report table | Beginner | [ch2/ep09](ch2/ep09) | [watch](https://youtu.be/GdwFqgVMtfE) |
 | 10 | Regex: match a log line by its shape | Beginner | [ch2/ep10](ch2/ep10) | [watch](https://youtu.be/jyb4WStTJXw) |
 | 11 | Virtual environments: install tools safely | Beginner | [ch2/ep11](ch2/ep11) | [watch](https://youtu.be/mqX8oFhz8zk) |
+| 12 | pytest: prove your watchdog works | Beginner | [ch2/ep12](ch2/ep12) | coming soon |
 
 ## How to use
 
