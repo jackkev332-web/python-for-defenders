@@ -11,7 +11,7 @@ Open a terminal **in this folder**, then:
 - Windows: `python watchdog.py`
 - macOS / Linux: `python3 watchdog.py`
 
-Expected output (first 12 of 373 lines):
+Expected output (first 15 of 373 lines):
 
 ```
 Watchdog starting
@@ -26,7 +26,10 @@ Successful logins: 27
 198.51.100.140
 198.51.100.140
 198.51.100.140
-... (361 more lines)
+198.51.100.140
+198.51.100.140
+198.51.100.140
+... (358 more lines)
 ```
 
 ## Files
