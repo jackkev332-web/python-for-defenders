@@ -1,1 +1,3 @@
 __pycache__/
+# episode 19 generates fake secrets here; never commit them
+demo_project/
