@@ -23,6 +23,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 12 | pytest: prove your watchdog works | Beginner | [ch2/ep12](ch2/ep12) | coming soon |
 | 13 | AI writes the regex, pytest judges it | Beginner | [ch2/ep13](ch2/ep13) | coming soon |
 | 14 | argparse: Watchdog v2.0, a real command-line tool | Beginner | [ch2/ep14](ch2/ep14) | coming soon |
+| 15 | datetime: when did each attack happen? | Intermediate | [ch3/ep15](ch3/ep15) | coming soon |
 
 ## How to use
 
