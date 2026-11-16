@@ -25,6 +25,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 14 | argparse: Watchdog v2.0, a real command-line tool | Beginner | [ch2/ep14](ch2/ep14) | coming soon |
 | 15 | datetime: when did each attack happen? | Intermediate | [ch3/ep15](ch3/ep15) | coming soon |
 | 16 | JSON logs: read the systemd journal | Intermediate | [ch3/ep16](ch3/ep16) | coming soon |
+| 17 | Web server logs: who is scanning your site? | Intermediate | [ch3/ep17](ch3/ep17) | coming soon |
 
 ## How to use
 
