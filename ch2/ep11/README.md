@@ -2,7 +2,7 @@
 
 Python for Defenders · Chapter 2: Real tools (Beginner)
 
-Video: coming soon
+Video: https://youtu.be/mqX8oFhz8zk
 
 ## Set up a virtual environment (this episode)
 
