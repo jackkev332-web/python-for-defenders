@@ -20,7 +20,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 9 | Sets and f-strings: a real report table | Beginner | [ch2/ep09](ch2/ep09) | [watch](https://youtu.be/GdwFqgVMtfE) |
 | 10 | Regex: match a log line by its shape | Beginner | [ch2/ep10](ch2/ep10) | [watch](https://youtu.be/jyb4WStTJXw) |
 | 11 | Virtual environments: install tools safely | Beginner | [ch2/ep11](ch2/ep11) | [watch](https://youtu.be/mqX8oFhz8zk) |
-| 12 | pytest: prove your watchdog works | Beginner | [ch2/ep12](ch2/ep12) | coming soon |
+| 12 | pytest: prove your watchdog works | Beginner | [ch2/ep12](ch2/ep12) | [watch](https://youtu.be/obpk-Ctx8V0) |
 | 13 | AI writes the regex, pytest judges it | Beginner | [ch2/ep13](ch2/ep13) | coming soon |
 | 14 | argparse: Watchdog v2.0, a real command-line tool | Beginner | [ch2/ep14](ch2/ep14) | coming soon |
 | 15 | datetime: when did each attack happen? | Intermediate | [ch3/ep15](ch3/ep15) | coming soon |
