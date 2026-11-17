@@ -31,6 +31,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 20 | Machine learning: unusual is not malicious | Intermediate | [ch3/ep20](ch3/ep20) | coming soon |
 | 21 | Watchdog v3.0: one tool, two logs (chapter 3 finale) | Intermediate | [ch3/ep21](ch3/ep21) | coming soon |
 | 22 | Generators: a year of logs, almost no memory | Advanced | [ch4/ep22](ch4/ep22) | coming soon |
+| 23 | Follow a log live: alerts the moment they happen | Advanced | [ch4/ep23](ch4/ep23) | coming soon |
 
 ## How to use
 
