@@ -1,3 +1,5 @@
 __pycache__/
 # episode 19 generates fake secrets here; never commit them
 demo_project/
+# episode 22 generates a 63 MB synthetic year of logs
+year_auth.log
