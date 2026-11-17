@@ -2,7 +2,7 @@
 
 Python for Defenders · Chapter 2: Real tools (Beginner)
 
-Video: coming soon
+Video: https://youtu.be/fP_4g-Pa3pM
 
 ## Options (this episode)
 
