@@ -29,6 +29,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 18 | Alerts: let the watchdog call you | Intermediate | [ch3/ep18](ch3/ep18) | coming soon |
 | 19 | Secrets scanner: catch leaked keys before you share | Intermediate | [ch3/ep19](ch3/ep19) | coming soon |
 | 20 | Machine learning: unusual is not malicious | Intermediate | [ch3/ep20](ch3/ep20) | coming soon |
+| 21 | Watchdog v3.0: one tool, two logs (chapter 3 finale) | Intermediate | [ch3/ep21](ch3/ep21) | coming soon |
 
 ## How to use
 
