@@ -2,7 +2,7 @@
 
 Python for Defenders · Chapter 4: Hardening (Advanced)
 
-Video: coming soon
+Video: https://youtu.be/6c8KSDC0AT4
 
 ## First: make a year of logs
 
