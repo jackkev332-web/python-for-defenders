@@ -3,5 +3,6 @@ __pycache__/
 demo_project/
 # episode 22 generates a 63 MB synthetic year of logs
 year_auth.log
-# episode 23's live demo writes this log
+# episodes 23-24's live demos write these logs
 live_auth.log
+live_access.log
