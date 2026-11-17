@@ -2,7 +2,7 @@
 
 Python for Defenders · Chapter 3: Real servers (Intermediate)
 
-Video: coming soon
+Video: https://youtu.be/GKjowgwvByM
 
 ## First: install scikit-learn (once, inside your virtual environment — episode 11)
 
