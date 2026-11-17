@@ -33,6 +33,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 22 | Generators: a year of logs, almost no memory | Advanced | [ch4/ep22](ch4/ep22) | coming soon |
 | 23 | Follow a log live: alerts the moment they happen | Advanced | [ch4/ep23](ch4/ep23) | coming soon |
 | 24 | asyncio: watch two logs at once | Advanced | [ch4/ep24](ch4/ep24) | coming soon |
+| 25 | Rules as data: change the rules, not the code | Advanced | [ch4/ep25](ch4/ep25) | coming soon |
 
 ## How to use
 
