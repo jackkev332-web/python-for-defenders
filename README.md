@@ -25,7 +25,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 14 | argparse: Watchdog v2.0, a real command-line tool | Beginner | [ch2/ep14](ch2/ep14) | [watch](https://youtu.be/fP_4g-Pa3pM) |
 | 15 | datetime: when did each attack happen? | Intermediate | [ch3/ep15](ch3/ep15) | [watch](https://youtu.be/5YK0hZ5g8n0) |
 | 16 | JSON logs: read the systemd journal | Intermediate | [ch3/ep16](ch3/ep16) | [watch](https://youtu.be/NWULJRamhEU) |
-| 17 | Web server logs: who is scanning your site? | Intermediate | [ch3/ep17](ch3/ep17) | coming soon |
+| 17 | Web server logs: who is scanning your site? | Intermediate | [ch3/ep17](ch3/ep17) | [watch](https://youtu.be/cSXS2s2cfXc) |
 | 18 | Alerts: let the watchdog call you | Intermediate | [ch3/ep18](ch3/ep18) | coming soon |
 | 19 | Secrets scanner: catch leaked keys before you share | Intermediate | [ch3/ep19](ch3/ep19) | coming soon |
 | 20 | Machine learning: unusual is not malicious | Intermediate | [ch3/ep20](ch3/ep20) | coming soon |
