@@ -2,7 +2,7 @@
 
 Python for Defenders · Chapter 3: Real servers (Intermediate)
 
-Video: coming soon
+Video: https://youtu.be/0Y_EK-69WiI
 
 ## First: make the practice project
 
