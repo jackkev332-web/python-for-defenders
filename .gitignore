@@ -10,3 +10,5 @@ live_access.log
 ai_summary.txt
 # chapter 5's agents save the whole AI conversation here
 conversation.json
+# episode 31: the addresses a person blocked (a demo file, not a firewall)
+blocklist.txt
