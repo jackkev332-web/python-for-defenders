@@ -1,0 +1,22 @@
+# Watchdog rules: one [[rule]] per detection.
+# pattern is a regex with a group named ip. Single quotes keep backslashes as they are.
+# The SSH patterns end with what sshd itself writes last: "from IP port N ssh2". The username, in the
+# middle, is whatever the client sent, so it can contain spaces and fake addresses.
+
+[[rule]]
+name = "ssh-password-guessing"
+log = "auth"
+pattern = 'Failed password for (invalid user )?.* from (?P<ip>\S+) port \d+ ssh2$'
+threshold = 5
+
+[[rule]]
+name = "web-scanner"
+log = "web"
+pattern = '^(?P<ip>\S+) .* 404 '
+threshold = 10
+
+[[rule]]
+name = "ssh-root-guessing"
+log = "auth"
+pattern = 'Failed password for root from (?P<ip>\S+) port \d+ ssh2$'
+threshold = 20

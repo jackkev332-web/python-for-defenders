@@ -6,3 +6,5 @@ year_auth.log
 # episodes 23-24's live demos write these logs
 live_auth.log
 live_access.log
+# episode 27 saves the local AI's answer here
+ai_summary.txt

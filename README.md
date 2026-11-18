@@ -35,6 +35,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 24 | asyncio: watch two logs at once | Advanced | [ch4/ep24](ch4/ep24) | [watch](https://youtu.be/h1mw4k5D7RQ) |
 | 25 | Rules as data: change the rules, not the code | Advanced | [ch4/ep25](ch4/ep25) | [watch](https://youtu.be/3mL-e0D9j9Y) |
 | 26 | Attacker-controlled input: don't let a log line frame an innocent IP | Advanced | [ch4/ep26](ch4/ep26) | [watch](https://youtu.be/Pq0i3Y_PZw0) |
+| 27 | AI incident summary: a log line tries to hijack the AI | Advanced | [ch4/ep27](ch4/ep27) | coming soon |
 
 ## How to use
 
