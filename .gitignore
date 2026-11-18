@@ -8,3 +8,5 @@ live_auth.log
 live_access.log
 # episode 27 saves the local AI's answer here
 ai_summary.txt
+# chapter 5's agents save the whole AI conversation here
+conversation.json
