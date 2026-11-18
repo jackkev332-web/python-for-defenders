@@ -37,7 +37,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 26 | Attacker-controlled input: don't let a log line frame an innocent IP | Advanced | [ch4/ep26](ch4/ep26) | [watch](https://youtu.be/Pq0i3Y_PZw0) |
 | 27 | AI incident summary: a log line tries to hijack the AI | Advanced | [ch4/ep27](ch4/ep27) | [watch](https://youtu.be/9PN4CdbTqD0) |
 | 28 | Watchdog v4.0: one tool, the whole chapter | Advanced | [ch4/ep28](ch4/ep28) | [watch](https://youtu.be/mOv5RyeEwew) |
-| 29 | Tool calling: let the AI ask your code | Expert | [ch5/ep29](ch5/ep29) | coming soon |
+| 29 | Tool calling: let the AI ask your code | Expert | [ch5/ep29](ch5/ep29) | [watch](https://youtu.be/35qNkVisLCY) |
 
 ## How to use
 
