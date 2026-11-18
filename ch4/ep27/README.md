@@ -2,7 +2,7 @@
 
 Python for Defenders · Chapter 4: Hardening (Advanced)
 
-Video: coming soon
+Video: https://youtu.be/9PN4CdbTqD0
 
 ## Before you start
 
