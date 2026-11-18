@@ -38,6 +38,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 27 | AI incident summary: a log line tries to hijack the AI | Advanced | [ch4/ep27](ch4/ep27) | [watch](https://youtu.be/9PN4CdbTqD0) |
 | 28 | Watchdog v4.0: one tool, the whole chapter | Advanced | [ch4/ep28](ch4/ep28) | [watch](https://youtu.be/mOv5RyeEwew) |
 | 29 | Tool calling: let the AI ask your code | Expert | [ch5/ep29](ch5/ep29) | [watch](https://youtu.be/35qNkVisLCY) |
+| 30 | An agent loop: many tools, one step limit | Expert | [ch5/ep30](ch5/ep30) | coming soon |
 
 ## How to use
 
