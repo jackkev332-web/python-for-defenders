@@ -43,6 +43,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 32 | Prompt injection vs an AI agent: a log line tries to block alice | Expert | [ch5/ep32](ch5/ep32) | [watch](https://youtu.be/tZcchjOTndg) |
 | 33 | MCP: the watchdog as a tool server | Expert | [ch5/ep33](ch5/ep33) | [watch](https://youtu.be/WJ_T6Zup_HM) |
 | 34 | Evaluating an AI agent: a test set, not a single run | Expert | [ch5/ep34](ch5/ep34) | [watch](https://youtu.be/Oki98aBEJUo) |
+| 35 | Watchdog v5.0: an AI triage assistant (the finale) | Expert | [ch5/ep35](ch5/ep35) | coming soon |
 
 ## How to use
 
