@@ -14,3 +14,6 @@ conversation.json
 blocklist.txt
 # episode 32: every decision, with the time
 audit.log
+# episode 33: the MCP server's own messages, and the venv you create for it
+server.log
+.venv/
