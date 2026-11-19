@@ -42,7 +42,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 31 | Guardrails: the agent proposes, a person decides | Expert | [ch5/ep31](ch5/ep31) | [watch](https://youtu.be/LzqTJDyxq4k) |
 | 32 | Prompt injection vs an AI agent: a log line tries to block alice | Expert | [ch5/ep32](ch5/ep32) | [watch](https://youtu.be/tZcchjOTndg) |
 | 33 | MCP: the watchdog as a tool server | Expert | [ch5/ep33](ch5/ep33) | [watch](https://youtu.be/WJ_T6Zup_HM) |
-| 34 | Evaluating an AI agent: a test set, not a single run | Expert | [ch5/ep34](ch5/ep34) | coming soon |
+| 34 | Evaluating an AI agent: a test set, not a single run | Expert | [ch5/ep34](ch5/ep34) | [watch](https://youtu.be/Oki98aBEJUo) |
 
 ## How to use
 
