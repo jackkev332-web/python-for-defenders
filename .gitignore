@@ -17,3 +17,5 @@ audit.log
 # episode 33: the MCP server's own messages, and the venv you create for it
 server.log
 .venv/
+# episode 34: every case, every call, every answer of the last evaluation
+eval_results.json
