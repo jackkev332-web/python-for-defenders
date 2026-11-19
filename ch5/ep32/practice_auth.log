@@ -1,0 +1,1528 @@
+2026-11-09T00:03:29.638461+00:00 web01 sshd[34258]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:04:37.647164+00:00 web01 sshd[11322]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T00:06:20.060996+00:00 web01 CRON[37774]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T00:07:36.128363+00:00 web01 sshd[15220]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T00:09:16.670747+00:00 web01 sshd[3802]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:13:36.637698+00:00 web01 sshd[29430]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:14:16.230317+00:00 web01 CRON[35582]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T00:15:40.240948+00:00 web01 sshd[10391]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:18:41.673065+00:00 web01 sshd[23024]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T00:19:37.175705+00:00 web01 sshd[6410]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:19:37.203282+00:00 web01 sshd[5049]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T00:19:58.635217+00:00 web01 sshd[27973]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:20:11.347648+00:00 web01 sshd[35283]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:21:17.162681+00:00 web01 sshd[26964]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T00:27:00.152026+00:00 web01 sshd[25377]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:27:07.492433+00:00 web01 sshd[3653]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T00:28:09.792814+00:00 web01 sshd[9871]: Accepted publickey for alice from 192.0.2.10 port 42922 ssh2: ED25519 SHA256:vDvxmYKepLEL7nwJNlENLB7guG5TDrezUwkUrGhrDqY
+2026-11-09T00:29:43.798105+00:00 web01 sshd[20743]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T00:31:03.556508+00:00 web01 sshd[13454]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T00:32:17.284468+00:00 web01 sshd[34780]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T00:34:04.198580+00:00 web01 sshd[10964]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T00:34:46.396724+00:00 web01 CRON[18140]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T00:34:57.454078+00:00 web01 sshd[34486]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:35:13.039816+00:00 web01 sshd[10172]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T00:40:40.804642+00:00 web01 sshd[17258]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T00:40:50.352919+00:00 web01 sshd[19560]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:41:06.102194+00:00 web01 sshd[15939]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:42:37.464544+00:00 web01 sshd[35900]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T00:42:51.366614+00:00 web01 sshd[9853]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T00:47:16.960163+00:00 web01 sshd[22617]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T00:49:25.883580+00:00 web01 sshd[11037]: Invalid user ftpuser from 198.51.100.140 port 54203
+2026-11-09T00:49:27.883580+00:00 web01 sshd[1672]: Failed password for invalid user ftpuser from 198.51.100.140 port 54203 ssh2
+2026-11-09T00:49:35.858559+00:00 web01 sshd[10521]: Invalid user test from 198.51.100.140 port 61600
+2026-11-09T00:49:37.858559+00:00 web01 sshd[29368]: Failed password for invalid user test from 198.51.100.140 port 61600 ssh2
+2026-11-09T00:50:07.825103+00:00 web01 sshd[3814]: Invalid user nagios from 198.51.100.140 port 60283
+2026-11-09T00:50:09.825103+00:00 web01 sshd[4230]: Failed password for invalid user nagios from 198.51.100.140 port 60283 ssh2
+2026-11-09T00:50:17.930282+00:00 web01 sshd[13774]: Invalid user ftpuser from 198.51.100.140 port 40645
+2026-11-09T00:50:19.930282+00:00 web01 sshd[16410]: Failed password for invalid user ftpuser from 198.51.100.140 port 40645 ssh2
+2026-11-09T00:50:33.827748+00:00 web01 sshd[12365]: Invalid user ftpuser from 198.51.100.140 port 45820
+2026-11-09T00:50:35.827748+00:00 web01 sshd[19300]: Failed password for invalid user ftpuser from 198.51.100.140 port 45820 ssh2
+2026-11-09T00:50:44.200296+00:00 web01 sshd[2809]: Invalid user nagios from 198.51.100.140 port 49004
+2026-11-09T00:50:46.200296+00:00 web01 sshd[29549]: Failed password for invalid user nagios from 198.51.100.140 port 49004 ssh2
+2026-11-09T00:51:07.524923+00:00 web01 sshd[21689]: Invalid user ftpuser from 198.51.100.140 port 58531
+2026-11-09T00:51:09.524923+00:00 web01 sshd[19279]: Failed password for invalid user ftpuser from 198.51.100.140 port 58531 ssh2
+2026-11-09T00:51:31.420226+00:00 web01 sshd[38581]: Invalid user ftpuser from 198.51.100.140 port 33196
+2026-11-09T00:51:33.420226+00:00 web01 sshd[24448]: Failed password for invalid user ftpuser from 198.51.100.140 port 33196 ssh2
+2026-11-09T00:51:47.927643+00:00 web01 sshd[39789]: Invalid user test from 198.51.100.140 port 32279
+2026-11-09T00:51:49.927643+00:00 web01 sshd[5719]: Failed password for invalid user test from 198.51.100.140 port 32279 ssh2
+2026-11-09T00:52:16.647228+00:00 web01 sshd[18019]: Invalid user nagios from 198.51.100.140 port 38222
+2026-11-09T00:52:18.647228+00:00 web01 sshd[39962]: Failed password for invalid user nagios from 198.51.100.140 port 38222 ssh2
+2026-11-09T00:52:35.730940+00:00 web01 sshd[30222]: Invalid user ftpuser from 198.51.100.140 port 32717
+2026-11-09T00:52:37.730940+00:00 web01 sshd[33676]: Failed password for invalid user ftpuser from 198.51.100.140 port 32717 ssh2
+2026-11-09T00:52:55.560220+00:00 web01 sshd[37124]: Invalid user nagios from 198.51.100.140 port 42458
+2026-11-09T00:52:57.560220+00:00 web01 sshd[30153]: Failed password for invalid user nagios from 198.51.100.140 port 42458 ssh2
+2026-11-09T00:53:10.481715+00:00 web01 sshd[25232]: Invalid user test from 198.51.100.140 port 61484
+2026-11-09T00:53:12.481715+00:00 web01 sshd[6126]: Failed password for invalid user test from 198.51.100.140 port 61484 ssh2
+2026-11-09T00:53:24.388588+00:00 web01 sshd[39232]: Invalid user test from 198.51.100.140 port 49203
+2026-11-09T00:53:26.388588+00:00 web01 sshd[5406]: Failed password for invalid user test from 198.51.100.140 port 49203 ssh2
+2026-11-09T00:53:37.409713+00:00 web01 sshd[10513]: Invalid user ftpuser from 198.51.100.140 port 47594
+2026-11-09T00:53:39.409713+00:00 web01 sshd[33758]: Failed password for invalid user ftpuser from 198.51.100.140 port 47594 ssh2
+2026-11-09T00:53:48.844175+00:00 web01 sshd[29068]: Invalid user ftpuser from 198.51.100.140 port 64127
+2026-11-09T00:53:50.844175+00:00 web01 sshd[37915]: Failed password for invalid user ftpuser from 198.51.100.140 port 64127 ssh2
+2026-11-09T00:54:08.242192+00:00 web01 sshd[1373]: Invalid user nagios from 198.51.100.140 port 49792
+2026-11-09T00:54:10.242192+00:00 web01 sshd[10058]: Failed password for invalid user nagios from 198.51.100.140 port 49792 ssh2
+2026-11-09T00:56:50.382987+00:00 web01 sshd[39036]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T00:58:17.964660+00:00 web01 sshd[37400]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:00:20.902679+00:00 web01 sshd[18468]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T01:01:34.065582+00:00 web01 sshd[23782]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T01:02:11.194339+00:00 web01 sshd[36950]: Failed password for deploy from 192.0.2.31 port 52170 ssh2
+2026-11-09T01:02:16.194339+00:00 web01 sshd[29906]: Accepted publickey for deploy from 192.0.2.31 port 41396 ssh2: ED25519 SHA256:qX5b9zAB1iTANXqXdTpsRUxyK6gzi6tQippd7xWm7d2
+2026-11-09T01:02:50.880314+00:00 web01 CRON[28238]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T01:03:13.723071+00:00 web01 sshd[31660]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T01:06:08.294678+00:00 web01 sshd[7424]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T01:08:05.544051+00:00 web01 sshd[19001]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:12:03.604517+00:00 web01 sshd[38648]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:13:01.035462+00:00 web01 sshd[32674]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T01:18:39.654483+00:00 web01 sshd[15768]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:20:09.591904+00:00 web01 sshd[15797]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T01:22:46.876079+00:00 web01 sshd[10717]: Failed password for bob from 192.0.2.24 port 53467 ssh2
+2026-11-09T01:22:54.876079+00:00 web01 sshd[32202]: Accepted publickey for bob from 192.0.2.24 port 54589 ssh2: ED25519 SHA256:F8Bv9ivtmiZRpNTVr9vdNP0SzIQeB114rxAXOKQiK5R
+2026-11-09T01:23:11.364599+00:00 web01 sshd[13388]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T01:23:43.667525+00:00 web01 CRON[25940]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T01:23:56.839775+00:00 web01 sshd[21123]: Accepted publickey for alice from 192.0.2.10 port 61103 ssh2: ED25519 SHA256:Cmac9lmi7F8pvuCJOmKMzXVXNz2QhF5eJGM3rKCAOVT
+2026-11-09T01:24:25.775631+00:00 web01 sshd[37807]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T01:27:08.385551+00:00 web01 sshd[28125]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T01:28:18.175105+00:00 web01 sshd[2332]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T01:28:21.541436+00:00 web01 sshd[18537]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T01:29:33.755754+00:00 web01 sshd[13281]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:32:26.885060+00:00 web01 sshd[17220]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T01:33:41.510107+00:00 web01 sshd[35995]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:33:51.496717+00:00 web01 sshd[4032]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T01:33:55.706714+00:00 web01 CRON[16029]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T01:40:45.378092+00:00 web01 CRON[28168]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T01:42:13.764106+00:00 web01 sshd[2628]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T01:42:30.816908+00:00 web01 sshd[25626]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T01:42:45.922749+00:00 web01 sshd[39134]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T01:43:33.658906+00:00 web01 sshd[8115]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T01:43:46.608752+00:00 web01 sshd[5868]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:47:28.033134+00:00 web01 sshd[10565]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:50:21.445036+00:00 web01 sshd[18493]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T01:54:01.695785+00:00 web01 sshd[19780]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:54:39.283746+00:00 web01 sshd[33288]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:56:32.999298+00:00 web01 CRON[28093]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T01:56:51.497476+00:00 web01 sshd[23780]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:57:26.511833+00:00 web01 sshd[36625]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T01:58:23.769075+00:00 web01 sshd[16557]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T01:59:55.886169+00:00 web01 sshd[22738]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T02:04:52.976520+00:00 web01 CRON[9340]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T02:09:15.640550+00:00 web01 sshd[13236]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T02:09:43.260784+00:00 web01 sshd[10451]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:13:03.808918+00:00 web01 sshd[24971]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T02:14:53.988428+00:00 web01 sshd[7389]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:15:54.020585+00:00 web01 sshd[19870]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T02:16:24.085533+00:00 web01 sshd[18062]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:19:16.614525+00:00 web01 sshd[15922]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T02:19:32.675304+00:00 web01 sshd[9789]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:21:56.271407+00:00 web01 CRON[20726]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T02:25:40.229606+00:00 web01 sshd[37680]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:27:19.476322+00:00 web01 sshd[3977]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T02:27:31.101069+00:00 web01 sshd[31020]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T02:28:35.638185+00:00 web01 sshd[11048]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T02:30:52.076762+00:00 web01 sshd[9308]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T02:33:10.818262+00:00 web01 sshd[35540]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:33:12.044634+00:00 web01 sshd[23283]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:34:28.033967+00:00 web01 sshd[9701]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:34:52.951606+00:00 web01 sshd[17936]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T02:36:07.841031+00:00 web01 sshd[25116]: Accepted publickey for bob from 192.0.2.24 port 40169 ssh2: ED25519 SHA256:4aYD4oUgxPMCsfkTmCEtkK3xXVV5kp7aalS9O4V49Q9
+2026-11-09T02:38:12.504366+00:00 web01 sshd[7198]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T02:38:15.243299+00:00 web01 sshd[29524]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T02:42:19.751508+00:00 web01 sshd[4269]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T02:42:39.592926+00:00 web01 sshd[24457]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:43:05.452116+00:00 web01 sshd[11359]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T02:43:29.359809+00:00 web01 sshd[38236]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T02:44:02.132112+00:00 web01 sshd[8974]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T02:45:58.198004+00:00 web01 sshd[12712]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:46:16.246662+00:00 web01 CRON[39805]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T02:47:14.567582+00:00 web01 CRON[18904]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T02:47:31.461539+00:00 web01 CRON[19074]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T02:48:02.753963+00:00 web01 sshd[6150]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T02:49:32.221382+00:00 web01 sshd[18036]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T02:50:09.258222+00:00 web01 sshd[14640]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T02:50:16.987642+00:00 web01 CRON[27372]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T02:52:27.524017+00:00 web01 sshd[4642]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T02:54:47.344237+00:00 web01 sshd[14536]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:56:51.561603+00:00 web01 CRON[35574]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T02:57:20.828936+00:00 web01 sshd[20222]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T02:59:08.700872+00:00 web01 sshd[25185]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T03:03:37.224742+00:00 web01 CRON[17649]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T03:03:37.778212+00:00 web01 sshd[8668]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T03:09:13.067552+00:00 web01 sshd[31426]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T03:14:49.997376+00:00 web01 sshd[12691]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T03:17:55.656993+00:00 web01 sshd[9149]: Invalid user admin from 203.0.113.45 port 39908
+2026-11-09T03:17:57.656993+00:00 web01 sshd[31010]: Failed password for invalid user admin from 203.0.113.45 port 39908 ssh2
+2026-11-09T03:18:22.852741+00:00 web01 sshd[8504]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T03:18:24.536251+00:00 web01 sshd[2834]: Invalid user user from 203.0.113.45 port 35269
+2026-11-09T03:18:26.536251+00:00 web01 sshd[32920]: Failed password for invalid user user from 203.0.113.45 port 35269 ssh2
+2026-11-09T03:18:32.221026+00:00 web01 sshd[32799]: Failed password for git from 203.0.113.45 port 43123 ssh2
+2026-11-09T03:18:40.042131+00:00 web01 sshd[26943]: Invalid user postgres from 203.0.113.45 port 35044
+2026-11-09T03:18:42.042131+00:00 web01 sshd[35026]: Failed password for invalid user postgres from 203.0.113.45 port 35044 ssh2
+2026-11-09T03:19:07.985788+00:00 web01 sshd[15021]: Invalid user admin from 203.0.113.45 port 58478
+2026-11-09T03:19:09.985788+00:00 web01 sshd[3715]: Failed password for invalid user admin from 203.0.113.45 port 58478 ssh2
+2026-11-09T03:19:26.662177+00:00 web01 sshd[29327]: Invalid user oracle from 203.0.113.45 port 35678
+2026-11-09T03:19:28.662177+00:00 web01 sshd[35489]: Failed password for invalid user oracle from 203.0.113.45 port 35678 ssh2
+2026-11-09T03:19:41.642688+00:00 web01 sshd[6340]: Invalid user user from 203.0.113.45 port 51311
+2026-11-09T03:19:43.642688+00:00 web01 sshd[32678]: Failed password for invalid user user from 203.0.113.45 port 51311 ssh2
+2026-11-09T03:20:02.424916+00:00 web01 sshd[23252]: Failed password for git from 203.0.113.45 port 56834 ssh2
+2026-11-09T03:20:15.622922+00:00 web01 sshd[7985]: Invalid user user from 203.0.113.45 port 55093
+2026-11-09T03:20:17.622922+00:00 web01 sshd[35166]: Failed password for invalid user user from 203.0.113.45 port 55093 ssh2
+2026-11-09T03:20:38.195110+00:00 web01 sshd[13013]: Invalid user admin from 203.0.113.45 port 34869
+2026-11-09T03:20:40.195110+00:00 web01 sshd[14248]: Failed password for invalid user admin from 203.0.113.45 port 34869 ssh2
+2026-11-09T03:20:54.478728+00:00 web01 sshd[2731]: Invalid user admin from 203.0.113.45 port 42176
+2026-11-09T03:20:56.478728+00:00 web01 sshd[18461]: Failed password for invalid user admin from 203.0.113.45 port 42176 ssh2
+2026-11-09T03:21:14.139366+00:00 web01 CRON[32699]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T03:21:20.022858+00:00 web01 sshd[8386]: Invalid user admin from 203.0.113.45 port 46999
+2026-11-09T03:21:22.022858+00:00 web01 sshd[15472]: Failed password for invalid user admin from 203.0.113.45 port 46999 ssh2
+2026-11-09T03:21:31.448912+00:00 web01 sshd[12165]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T03:21:52.383618+00:00 web01 sshd[31949]: Invalid user postgres from 203.0.113.45 port 64181
+2026-11-09T03:21:54.383618+00:00 web01 sshd[37673]: Failed password for invalid user postgres from 203.0.113.45 port 64181 ssh2
+2026-11-09T03:22:01.766178+00:00 web01 sshd[4066]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T03:22:03.545724+00:00 web01 sshd[20078]: Invalid user admin from 203.0.113.45 port 36417
+2026-11-09T03:22:05.545724+00:00 web01 sshd[24729]: Failed password for invalid user admin from 203.0.113.45 port 36417 ssh2
+2026-11-09T03:22:13.015493+00:00 web01 sshd[25079]: Invalid user admin from 203.0.113.45 port 40272
+2026-11-09T03:22:15.015493+00:00 web01 sshd[8050]: Failed password for invalid user admin from 203.0.113.45 port 40272 ssh2
+2026-11-09T03:22:18.913349+00:00 web01 sshd[34017]: Invalid user user from 203.0.113.45 port 54109
+2026-11-09T03:22:20.913349+00:00 web01 sshd[21372]: Failed password for invalid user user from 203.0.113.45 port 54109 ssh2
+2026-11-09T03:22:24.348649+00:00 web01 sshd[13029]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T03:22:26.409102+00:00 web01 sshd[25082]: Failed password for root from 203.0.113.45 port 37187 ssh2
+2026-11-09T03:23:03.121151+00:00 web01 sshd[21241]: Invalid user admin from 203.0.113.45 port 56257
+2026-11-09T03:23:05.121151+00:00 web01 sshd[31294]: Failed password for invalid user admin from 203.0.113.45 port 56257 ssh2
+2026-11-09T03:23:32.167409+00:00 web01 sshd[14910]: Invalid user test from 203.0.113.45 port 52009
+2026-11-09T03:23:34.167409+00:00 web01 sshd[1495]: Failed password for invalid user test from 203.0.113.45 port 52009 ssh2
+2026-11-09T03:24:11.991974+00:00 web01 sshd[30779]: Failed password for ubuntu from 203.0.113.45 port 35076 ssh2
+2026-11-09T03:24:27.178988+00:00 web01 sshd[36479]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T03:24:30.719319+00:00 web01 sshd[27143]: Failed password for git from 203.0.113.45 port 46486 ssh2
+2026-11-09T03:24:32.962790+00:00 web01 sshd[28893]: Invalid user admin from 203.0.113.45 port 35927
+2026-11-09T03:24:34.962790+00:00 web01 sshd[11068]: Failed password for invalid user admin from 203.0.113.45 port 35927 ssh2
+2026-11-09T03:24:46.718532+00:00 web01 sshd[38289]: Invalid user test from 203.0.113.45 port 64052
+2026-11-09T03:24:48.718532+00:00 web01 sshd[22316]: Failed password for invalid user test from 203.0.113.45 port 64052 ssh2
+2026-11-09T03:25:04.390303+00:00 web01 sshd[24959]: Invalid user user from 203.0.113.45 port 56495
+2026-11-09T03:25:06.390303+00:00 web01 sshd[38371]: Failed password for invalid user user from 203.0.113.45 port 56495 ssh2
+2026-11-09T03:25:18.446170+00:00 web01 sshd[29345]: Failed password for root from 203.0.113.45 port 39654 ssh2
+2026-11-09T03:25:37.419759+00:00 web01 sshd[6808]: Invalid user test from 203.0.113.45 port 62231
+2026-11-09T03:25:39.419759+00:00 web01 sshd[9545]: Failed password for invalid user test from 203.0.113.45 port 62231 ssh2
+2026-11-09T03:25:49.774281+00:00 web01 sshd[4989]: Failed password for ubuntu from 203.0.113.45 port 36424 ssh2
+2026-11-09T03:26:20.295423+00:00 web01 sshd[37276]: Invalid user user from 203.0.113.45 port 60132
+2026-11-09T03:26:22.295423+00:00 web01 sshd[1340]: Failed password for invalid user user from 203.0.113.45 port 60132 ssh2
+2026-11-09T03:26:51.660360+00:00 web01 CRON[34843]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T03:26:57.948547+00:00 web01 sshd[26591]: Failed password for root from 203.0.113.45 port 46924 ssh2
+2026-11-09T03:27:06.687223+00:00 web01 sshd[31612]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T03:27:21.405763+00:00 web01 sshd[37926]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T03:27:28.726302+00:00 web01 sshd[11353]: Failed password for git from 203.0.113.45 port 52524 ssh2
+2026-11-09T03:27:29.622399+00:00 web01 sshd[3858]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T03:28:07.508140+00:00 web01 sshd[38286]: Invalid user admin from 203.0.113.45 port 62786
+2026-11-09T03:28:09.508140+00:00 web01 sshd[30081]: Failed password for invalid user admin from 203.0.113.45 port 62786 ssh2
+2026-11-09T03:28:17.913975+00:00 web01 sshd[15818]: Accepted publickey for bob from 192.0.2.24 port 41151 ssh2: ED25519 SHA256:yIOtW3emM8UfUh7xTzc6bHC69rtFpOtKgWmuKQgPBqL
+2026-11-09T03:28:31.634462+00:00 web01 sshd[30727]: Invalid user user from 203.0.113.45 port 35308
+2026-11-09T03:28:33.634462+00:00 web01 sshd[35917]: Failed password for invalid user user from 203.0.113.45 port 35308 ssh2
+2026-11-09T03:28:35.751824+00:00 web01 sshd[37108]: Invalid user postgres from 203.0.113.45 port 52927
+2026-11-09T03:28:37.751824+00:00 web01 sshd[38757]: Failed password for invalid user postgres from 203.0.113.45 port 52927 ssh2
+2026-11-09T03:28:53.343206+00:00 web01 sshd[21061]: Invalid user postgres from 203.0.113.45 port 64945
+2026-11-09T03:28:55.343206+00:00 web01 sshd[39966]: Failed password for invalid user postgres from 203.0.113.45 port 64945 ssh2
+2026-11-09T03:28:58.620324+00:00 web01 sshd[32588]: Failed password for ubuntu from 203.0.113.45 port 38741 ssh2
+2026-11-09T03:29:02.249894+00:00 web01 sshd[25325]: Invalid user admin from 203.0.113.45 port 46550
+2026-11-09T03:29:04.249894+00:00 web01 sshd[38111]: Failed password for invalid user admin from 203.0.113.45 port 46550 ssh2
+2026-11-09T03:29:09.756371+00:00 web01 sshd[4791]: Invalid user oracle from 203.0.113.45 port 59377
+2026-11-09T03:29:11.756371+00:00 web01 sshd[18576]: Failed password for invalid user oracle from 203.0.113.45 port 59377 ssh2
+2026-11-09T03:29:18.693292+00:00 web01 sshd[8278]: Invalid user user from 203.0.113.45 port 53119
+2026-11-09T03:29:20.693292+00:00 web01 sshd[26668]: Failed password for invalid user user from 203.0.113.45 port 53119 ssh2
+2026-11-09T03:29:56.753039+00:00 web01 sshd[33097]: Failed password for git from 203.0.113.45 port 33704 ssh2
+2026-11-09T03:30:04.572855+00:00 web01 sshd[29534]: Invalid user test from 203.0.113.45 port 33070
+2026-11-09T03:30:06.572855+00:00 web01 sshd[9691]: Failed password for invalid user test from 203.0.113.45 port 33070 ssh2
+2026-11-09T03:30:35.240254+00:00 web01 sshd[39360]: Invalid user postgres from 203.0.113.45 port 33987
+2026-11-09T03:30:37.240254+00:00 web01 sshd[14087]: Failed password for invalid user postgres from 203.0.113.45 port 33987 ssh2
+2026-11-09T03:30:50.576180+00:00 web01 sshd[2043]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T03:31:14.371228+00:00 web01 sshd[30965]: Failed password for git from 203.0.113.45 port 38775 ssh2
+2026-11-09T03:31:27.273752+00:00 web01 sshd[26756]: Invalid user test from 203.0.113.45 port 30668
+2026-11-09T03:31:29.273752+00:00 web01 sshd[11223]: Failed password for invalid user test from 203.0.113.45 port 30668 ssh2
+2026-11-09T03:31:31.816013+00:00 web01 sshd[28950]: Failed password for root from 203.0.113.45 port 62287 ssh2
+2026-11-09T03:32:12.344458+00:00 web01 sshd[31603]: Failed password for root from 203.0.113.45 port 58077 ssh2
+2026-11-09T03:32:24.308828+00:00 web01 sshd[14484]: Invalid user admin from 203.0.113.45 port 52509
+2026-11-09T03:32:26.308828+00:00 web01 sshd[33943]: Failed password for invalid user admin from 203.0.113.45 port 52509 ssh2
+2026-11-09T03:32:53.370194+00:00 web01 sshd[15302]: Invalid user admin from 203.0.113.45 port 56248
+2026-11-09T03:32:55.370194+00:00 web01 sshd[13697]: Failed password for invalid user admin from 203.0.113.45 port 56248 ssh2
+2026-11-09T03:33:05.719630+00:00 web01 sshd[17551]: Failed password for ubuntu from 203.0.113.45 port 45585 ssh2
+2026-11-09T03:33:13.809726+00:00 web01 sshd[30977]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T03:33:27.347619+00:00 web01 sshd[1455]: Failed password for ubuntu from 203.0.113.45 port 63436 ssh2
+2026-11-09T03:33:35.558084+00:00 web01 sshd[21433]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T03:33:48.023943+00:00 web01 sshd[23146]: Invalid user oracle from 203.0.113.45 port 51183
+2026-11-09T03:33:50.023943+00:00 web01 sshd[24319]: Failed password for invalid user oracle from 203.0.113.45 port 51183 ssh2
+2026-11-09T03:34:09.042728+00:00 web01 CRON[5234]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T03:34:10.813660+00:00 web01 sshd[34902]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T03:34:11.481396+00:00 web01 sshd[1038]: Failed password for git from 203.0.113.45 port 37663 ssh2
+2026-11-09T03:34:22.463117+00:00 web01 sshd[23290]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T03:34:50.430368+00:00 web01 sshd[13930]: Invalid user oracle from 203.0.113.45 port 30222
+2026-11-09T03:34:52.430368+00:00 web01 sshd[28517]: Failed password for invalid user oracle from 203.0.113.45 port 30222 ssh2
+2026-11-09T03:35:19.338664+00:00 web01 sshd[28253]: Invalid user user from 203.0.113.45 port 39273
+2026-11-09T03:35:21.338664+00:00 web01 sshd[29693]: Failed password for invalid user user from 203.0.113.45 port 39273 ssh2
+2026-11-09T03:35:53.000207+00:00 web01 sshd[36662]: Invalid user postgres from 203.0.113.45 port 52074
+2026-11-09T03:35:55.000207+00:00 web01 sshd[8518]: Failed password for invalid user postgres from 203.0.113.45 port 52074 ssh2
+2026-11-09T03:36:31.682656+00:00 web01 sshd[6219]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T03:36:34.704831+00:00 web01 sshd[25019]: Failed password for git from 203.0.113.45 port 48978 ssh2
+2026-11-09T03:37:14.141598+00:00 web01 sshd[27829]: Invalid user test from 203.0.113.45 port 46425
+2026-11-09T03:37:15.090654+00:00 web01 sshd[7271]: Failed password for root from 203.0.113.45 port 51437 ssh2
+2026-11-09T03:37:16.141598+00:00 web01 sshd[39203]: Failed password for invalid user test from 203.0.113.45 port 46425 ssh2
+2026-11-09T03:37:52.171197+00:00 web01 sshd[24686]: Failed password for ubuntu from 203.0.113.45 port 50827 ssh2
+2026-11-09T03:38:00.703625+00:00 web01 sshd[23508]: Invalid user postgres from 203.0.113.45 port 46860
+2026-11-09T03:38:02.703625+00:00 web01 sshd[33234]: Failed password for invalid user postgres from 203.0.113.45 port 46860 ssh2
+2026-11-09T03:38:38.950707+00:00 web01 sshd[25286]: Invalid user admin from 203.0.113.45 port 42267
+2026-11-09T03:38:40.950707+00:00 web01 sshd[13748]: Failed password for invalid user admin from 203.0.113.45 port 42267 ssh2
+2026-11-09T03:38:48.960601+00:00 web01 sshd[26644]: Failed password for ubuntu from 203.0.113.45 port 49127 ssh2
+2026-11-09T03:39:04.425989+00:00 web01 sshd[32277]: Invalid user oracle from 203.0.113.45 port 39139
+2026-11-09T03:39:06.425989+00:00 web01 sshd[8987]: Failed password for invalid user oracle from 203.0.113.45 port 39139 ssh2
+2026-11-09T03:39:31.874647+00:00 web01 sshd[1720]: Invalid user user from 203.0.113.45 port 59037
+2026-11-09T03:39:33.874647+00:00 web01 sshd[26618]: Failed password for invalid user user from 203.0.113.45 port 59037 ssh2
+2026-11-09T03:39:35.137421+00:00 web01 sshd[39463]: Failed password for ubuntu from 203.0.113.45 port 50467 ssh2
+2026-11-09T03:39:40.139832+00:00 web01 sshd[38535]: Invalid user user from 203.0.113.45 port 30675
+2026-11-09T03:39:42.139832+00:00 web01 sshd[14374]: Failed password for invalid user user from 203.0.113.45 port 30675 ssh2
+2026-11-09T03:39:44.602492+00:00 web01 sshd[36058]: Invalid user admin from 203.0.113.45 port 61104
+2026-11-09T03:39:46.602492+00:00 web01 sshd[36400]: Failed password for invalid user admin from 203.0.113.45 port 61104 ssh2
+2026-11-09T03:40:17.322041+00:00 web01 sshd[25749]: Failed password for git from 203.0.113.45 port 52803 ssh2
+2026-11-09T03:40:52.794659+00:00 web01 sshd[20840]: Invalid user admin from 203.0.113.45 port 61186
+2026-11-09T03:40:54.794659+00:00 web01 sshd[1875]: Failed password for invalid user admin from 203.0.113.45 port 61186 ssh2
+2026-11-09T03:41:03.177641+00:00 web01 sshd[32143]: Failed password for git from 203.0.113.45 port 59495 ssh2
+2026-11-09T03:41:28.514672+00:00 web01 sshd[28741]: Failed password for ubuntu from 203.0.113.45 port 45137 ssh2
+2026-11-09T03:41:40.253135+00:00 web01 sshd[30890]: Failed password for git from 203.0.113.45 port 30898 ssh2
+2026-11-09T03:41:43.074447+00:00 web01 sshd[25464]: Invalid user admin from 203.0.113.45 port 57663
+2026-11-09T03:41:45.074447+00:00 web01 sshd[13749]: Failed password for invalid user admin from 203.0.113.45 port 57663 ssh2
+2026-11-09T03:42:08.763743+00:00 web01 sshd[1437]: Invalid user user from 203.0.113.45 port 58175
+2026-11-09T03:42:10.763743+00:00 web01 sshd[19197]: Failed password for invalid user user from 203.0.113.45 port 58175 ssh2
+2026-11-09T03:42:19.455305+00:00 web01 sshd[4681]: Invalid user postgres from 203.0.113.45 port 39869
+2026-11-09T03:42:21.455305+00:00 web01 sshd[6342]: Failed password for invalid user postgres from 203.0.113.45 port 39869 ssh2
+2026-11-09T03:42:26.860138+00:00 web01 sshd[20484]: Invalid user postgres from 203.0.113.45 port 48426
+2026-11-09T03:42:28.860138+00:00 web01 sshd[30047]: Failed password for invalid user postgres from 203.0.113.45 port 48426 ssh2
+2026-11-09T03:42:58.014707+00:00 web01 sshd[18388]: Failed password for git from 203.0.113.45 port 30255 ssh2
+2026-11-09T03:43:05.840837+00:00 web01 sshd[9664]: Failed password for ubuntu from 203.0.113.45 port 53653 ssh2
+2026-11-09T03:43:15.892335+00:00 web01 sshd[29313]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T03:43:43.526054+00:00 web01 sshd[39875]: Failed password for root from 203.0.113.45 port 55737 ssh2
+2026-11-09T03:43:45.322091+00:00 web01 CRON[22585]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T03:44:21.599967+00:00 web01 sshd[8771]: Invalid user admin from 203.0.113.45 port 63356
+2026-11-09T03:44:23.599967+00:00 web01 sshd[27374]: Failed password for invalid user admin from 203.0.113.45 port 63356 ssh2
+2026-11-09T03:44:37.717620+00:00 web01 sshd[7131]: Invalid user user from 203.0.113.45 port 55776
+2026-11-09T03:44:39.717620+00:00 web01 sshd[4728]: Failed password for invalid user user from 203.0.113.45 port 55776 ssh2
+2026-11-09T03:45:12.629365+00:00 web01 sshd[39034]: Failed password for git from 203.0.113.45 port 41511 ssh2
+2026-11-09T03:45:23.767887+00:00 web01 sshd[12909]: Invalid user admin from 203.0.113.45 port 45922
+2026-11-09T03:45:25.767887+00:00 web01 sshd[35605]: Failed password for invalid user admin from 203.0.113.45 port 45922 ssh2
+2026-11-09T03:45:29.215864+00:00 web01 sshd[5696]: Failed password for git from 203.0.113.45 port 34105 ssh2
+2026-11-09T03:45:42.871595+00:00 web01 sshd[29349]: Invalid user user from 203.0.113.45 port 42285
+2026-11-09T03:45:44.871595+00:00 web01 sshd[21553]: Failed password for invalid user user from 203.0.113.45 port 42285 ssh2
+2026-11-09T03:46:03.155434+00:00 web01 sshd[12194]: Invalid user admin from 203.0.113.45 port 30648
+2026-11-09T03:46:05.155434+00:00 web01 sshd[26447]: Failed password for invalid user admin from 203.0.113.45 port 30648 ssh2
+2026-11-09T03:46:24.245395+00:00 web01 sshd[29813]: Invalid user admin from 203.0.113.45 port 38766
+2026-11-09T03:46:26.245395+00:00 web01 sshd[39293]: Failed password for invalid user admin from 203.0.113.45 port 38766 ssh2
+2026-11-09T03:46:42.697311+00:00 web01 CRON[30758]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T03:46:47.040553+00:00 web01 sshd[36840]: Failed password for ubuntu from 203.0.113.45 port 49333 ssh2
+2026-11-09T03:46:56.098290+00:00 web01 sshd[14400]: Invalid user admin from 203.0.113.45 port 57393
+2026-11-09T03:46:57.160577+00:00 web01 sshd[1618]: Invalid user admin from 203.0.113.45 port 60183
+2026-11-09T03:46:58.098290+00:00 web01 sshd[31677]: Failed password for invalid user admin from 203.0.113.45 port 57393 ssh2
+2026-11-09T03:46:59.160577+00:00 web01 sshd[33527]: Failed password for invalid user admin from 203.0.113.45 port 60183 ssh2
+2026-11-09T03:47:00.460428+00:00 web01 sshd[37739]: Accepted publickey for deploy from 192.0.2.31 port 50828 ssh2: ED25519 SHA256:KNrExA9CHLC9jVll2IIGOGmeFOPazsYLI5AvvLWMRXJ
+2026-11-09T03:47:00.973544+00:00 web01 sshd[35107]: Invalid user postgres from 203.0.113.45 port 63388
+2026-11-09T03:47:02.973544+00:00 web01 sshd[3962]: Failed password for invalid user postgres from 203.0.113.45 port 63388 ssh2
+2026-11-09T03:47:09.846371+00:00 web01 CRON[32339]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T03:47:20.535113+00:00 web01 CRON[35634]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T03:47:37.612273+00:00 web01 sshd[14477]: Invalid user user from 203.0.113.45 port 42669
+2026-11-09T03:47:39.612273+00:00 web01 sshd[3365]: Failed password for invalid user user from 203.0.113.45 port 42669 ssh2
+2026-11-09T03:48:11.863618+00:00 web01 sshd[37075]: Invalid user admin from 203.0.113.45 port 58755
+2026-11-09T03:48:13.863618+00:00 web01 sshd[19161]: Failed password for invalid user admin from 203.0.113.45 port 58755 ssh2
+2026-11-09T03:48:21.219354+00:00 web01 sshd[33742]: Failed password for ubuntu from 203.0.113.45 port 44325 ssh2
+2026-11-09T03:48:47.553882+00:00 web01 sshd[22927]: Invalid user admin from 203.0.113.45 port 48479
+2026-11-09T03:48:49.553882+00:00 web01 sshd[28005]: Failed password for invalid user admin from 203.0.113.45 port 48479 ssh2
+2026-11-09T03:49:21.784249+00:00 web01 sshd[26682]: Invalid user test from 203.0.113.45 port 42819
+2026-11-09T03:49:23.784249+00:00 web01 sshd[27560]: Failed password for invalid user test from 203.0.113.45 port 42819 ssh2
+2026-11-09T03:49:55.467077+00:00 web01 sshd[5381]: Failed password for ubuntu from 203.0.113.45 port 58026 ssh2
+2026-11-09T03:49:55.633312+00:00 web01 sshd[24100]: Invalid user admin from 203.0.113.45 port 61035
+2026-11-09T03:49:57.633312+00:00 web01 sshd[39216]: Failed password for invalid user admin from 203.0.113.45 port 61035 ssh2
+2026-11-09T03:50:37.222983+00:00 web01 sshd[17659]: Failed password for root from 203.0.113.45 port 41654 ssh2
+2026-11-09T03:51:12.195940+00:00 web01 sshd[39372]: Invalid user postgres from 203.0.113.45 port 58996
+2026-11-09T03:51:14.195940+00:00 web01 sshd[33956]: Failed password for invalid user postgres from 203.0.113.45 port 58996 ssh2
+2026-11-09T03:51:29.810743+00:00 web01 sshd[22429]: Invalid user admin from 203.0.113.45 port 33039
+2026-11-09T03:51:31.810743+00:00 web01 sshd[33489]: Failed password for invalid user admin from 203.0.113.45 port 33039 ssh2
+2026-11-09T03:51:35.508384+00:00 web01 sshd[2479]: Failed password for root from 203.0.113.45 port 54652 ssh2
+2026-11-09T03:52:10.953020+00:00 web01 sshd[20235]: Failed password for root from 203.0.113.45 port 40024 ssh2
+2026-11-09T03:52:19.764686+00:00 web01 sshd[10747]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T03:52:35.841949+00:00 web01 sshd[11545]: Invalid user oracle from 203.0.113.45 port 38011
+2026-11-09T03:52:37.841949+00:00 web01 sshd[35702]: Failed password for invalid user oracle from 203.0.113.45 port 38011 ssh2
+2026-11-09T03:53:05.715252+00:00 web01 sshd[31088]: Invalid user admin from 203.0.113.45 port 33866
+2026-11-09T03:53:07.715252+00:00 web01 sshd[6936]: Failed password for invalid user admin from 203.0.113.45 port 33866 ssh2
+2026-11-09T03:53:36.387121+00:00 web01 sshd[38199]: Invalid user oracle from 203.0.113.45 port 42023
+2026-11-09T03:53:38.387121+00:00 web01 sshd[32977]: Failed password for invalid user oracle from 203.0.113.45 port 42023 ssh2
+2026-11-09T03:53:39.623280+00:00 web01 sshd[25613]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T03:54:12.522138+00:00 web01 sshd[36958]: Failed password for ubuntu from 203.0.113.45 port 37520 ssh2
+2026-11-09T03:54:23.565715+00:00 web01 sshd[9685]: Invalid user test from 203.0.113.45 port 52017
+2026-11-09T03:54:25.565715+00:00 web01 sshd[15247]: Failed password for invalid user test from 203.0.113.45 port 52017 ssh2
+2026-11-09T03:54:38.116908+00:00 web01 sshd[13567]: Invalid user admin from 203.0.113.45 port 34260
+2026-11-09T03:54:40.116908+00:00 web01 sshd[11856]: Failed password for invalid user admin from 203.0.113.45 port 34260 ssh2
+2026-11-09T03:54:59.082127+00:00 web01 sshd[8733]: Invalid user oracle from 203.0.113.45 port 63987
+2026-11-09T03:55:01.082127+00:00 web01 sshd[31712]: Failed password for invalid user oracle from 203.0.113.45 port 63987 ssh2
+2026-11-09T03:55:21.011693+00:00 web01 sshd[32116]: Invalid user admin from 203.0.113.45 port 42139
+2026-11-09T03:55:23.011693+00:00 web01 sshd[15287]: Failed password for invalid user admin from 203.0.113.45 port 42139 ssh2
+2026-11-09T03:55:44.183291+00:00 web01 sshd[25348]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T03:55:54.871049+00:00 web01 sshd[23204]: Invalid user admin from 203.0.113.45 port 48203
+2026-11-09T03:55:56.871049+00:00 web01 sshd[36938]: Failed password for invalid user admin from 203.0.113.45 port 48203 ssh2
+2026-11-09T03:56:32.673312+00:00 web01 sshd[28516]: Failed password for ubuntu from 203.0.113.45 port 44289 ssh2
+2026-11-09T03:56:37.877428+00:00 web01 sshd[22980]: Failed password for git from 203.0.113.45 port 35479 ssh2
+2026-11-09T03:57:05.313479+00:00 web01 sshd[34687]: Invalid user user from 203.0.113.45 port 63637
+2026-11-09T03:57:07.313479+00:00 web01 sshd[26073]: Failed password for invalid user user from 203.0.113.45 port 63637 ssh2
+2026-11-09T03:57:35.030551+00:00 web01 sshd[26087]: Failed password for ubuntu from 203.0.113.45 port 64659 ssh2
+2026-11-09T03:57:37.101533+00:00 web01 sshd[6976]: Failed password for root from 203.0.113.45 port 37252 ssh2
+2026-11-09T03:57:46.656682+00:00 web01 sshd[36013]: Invalid user postgres from 203.0.113.45 port 33021
+2026-11-09T03:57:48.656682+00:00 web01 sshd[4058]: Failed password for invalid user postgres from 203.0.113.45 port 33021 ssh2
+2026-11-09T03:58:21.174536+00:00 web01 sshd[22078]: Failed password for root from 203.0.113.45 port 37891 ssh2
+2026-11-09T03:58:41.058994+00:00 web01 sshd[25162]: Invalid user user from 203.0.113.45 port 31336
+2026-11-09T03:58:43.058994+00:00 web01 sshd[16930]: Failed password for invalid user user from 203.0.113.45 port 31336 ssh2
+2026-11-09T03:58:50.647316+00:00 web01 sshd[20645]: Invalid user postgres from 203.0.113.45 port 39925
+2026-11-09T03:58:52.647316+00:00 web01 sshd[26369]: Failed password for invalid user postgres from 203.0.113.45 port 39925 ssh2
+2026-11-09T03:59:08.450273+00:00 web01 sshd[25047]: Invalid user postgres from 203.0.113.45 port 50236
+2026-11-09T03:59:10.450273+00:00 web01 sshd[5829]: Failed password for invalid user postgres from 203.0.113.45 port 50236 ssh2
+2026-11-09T03:59:16.506041+00:00 web01 sshd[37784]: Invalid user oracle from 203.0.113.45 port 33437
+2026-11-09T03:59:18.506041+00:00 web01 sshd[21739]: Failed password for invalid user oracle from 203.0.113.45 port 33437 ssh2
+2026-11-09T03:59:23.698337+00:00 web01 sshd[10767]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T03:59:36.122277+00:00 web01 sshd[17009]: Invalid user oracle from 203.0.113.45 port 54595
+2026-11-09T03:59:38.122277+00:00 web01 sshd[20970]: Failed password for invalid user oracle from 203.0.113.45 port 54595 ssh2
+2026-11-09T04:00:14.806519+00:00 web01 sshd[12439]: Invalid user oracle from 203.0.113.45 port 32910
+2026-11-09T04:00:16.806519+00:00 web01 sshd[19374]: Failed password for invalid user oracle from 203.0.113.45 port 32910 ssh2
+2026-11-09T04:00:20.312015+00:00 web01 sshd[18153]: Invalid user admin from 203.0.113.45 port 35622
+2026-11-09T04:00:22.312015+00:00 web01 sshd[38060]: Failed password for invalid user admin from 203.0.113.45 port 35622 ssh2
+2026-11-09T04:00:56.590338+00:00 web01 sshd[4036]: Invalid user postgres from 203.0.113.45 port 45539
+2026-11-09T04:00:58.590338+00:00 web01 sshd[10919]: Failed password for invalid user postgres from 203.0.113.45 port 45539 ssh2
+2026-11-09T04:01:02.934455+00:00 web01 sshd[30645]: Invalid user admin from 203.0.113.45 port 61736
+2026-11-09T04:01:04.934455+00:00 web01 sshd[16404]: Failed password for invalid user admin from 203.0.113.45 port 61736 ssh2
+2026-11-09T04:01:14.046998+00:00 web01 sshd[3887]: Failed password for root from 203.0.113.45 port 48500 ssh2
+2026-11-09T04:01:21.936859+00:00 web01 sshd[28104]: Invalid user test from 203.0.113.45 port 50764
+2026-11-09T04:01:23.936859+00:00 web01 sshd[15501]: Failed password for invalid user test from 203.0.113.45 port 50764 ssh2
+2026-11-09T04:01:41.070072+00:00 web01 sshd[29395]: Invalid user user from 203.0.113.45 port 44347
+2026-11-09T04:01:43.070072+00:00 web01 sshd[25102]: Failed password for invalid user user from 203.0.113.45 port 44347 ssh2
+2026-11-09T04:02:19.528106+00:00 web01 sshd[17567]: Invalid user oracle from 203.0.113.45 port 32412
+2026-11-09T04:02:21.528106+00:00 web01 sshd[38402]: Failed password for invalid user oracle from 203.0.113.45 port 32412 ssh2
+2026-11-09T04:02:52.826285+00:00 web01 sshd[18549]: Failed password for git from 203.0.113.45 port 53921 ssh2
+2026-11-09T04:03:05.099992+00:00 web01 sshd[36029]: Invalid user test from 203.0.113.45 port 38715
+2026-11-09T04:03:07.099992+00:00 web01 sshd[25987]: Failed password for invalid user test from 203.0.113.45 port 38715 ssh2
+2026-11-09T04:03:47.160388+00:00 web01 sshd[7594]: Failed password for ubuntu from 203.0.113.45 port 54571 ssh2
+2026-11-09T04:03:51.951481+00:00 web01 sshd[37491]: Failed password for root from 203.0.113.45 port 55846 ssh2
+2026-11-09T04:04:08.955272+00:00 web01 CRON[20648]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T04:04:29.739698+00:00 web01 sshd[1124]: Failed password for git from 203.0.113.45 port 41592 ssh2
+2026-11-09T04:04:33.394969+00:00 web01 sshd[32456]: Failed password for git from 203.0.113.45 port 63392 ssh2
+2026-11-09T04:04:55.071911+00:00 web01 sshd[38547]: Failed password for git from 203.0.113.45 port 53243 ssh2
+2026-11-09T04:05:17.072122+00:00 web01 sshd[8581]: Invalid user user from 203.0.113.45 port 47924
+2026-11-09T04:05:19.072122+00:00 web01 sshd[12334]: Failed password for invalid user user from 203.0.113.45 port 47924 ssh2
+2026-11-09T04:05:44.781651+00:00 web01 sshd[37523]: Invalid user test from 203.0.113.45 port 37168
+2026-11-09T04:05:46.781651+00:00 web01 sshd[25616]: Failed password for invalid user test from 203.0.113.45 port 37168 ssh2
+2026-11-09T04:06:25.180392+00:00 web01 sshd[28825]: Invalid user admin from 203.0.113.45 port 38450
+2026-11-09T04:06:27.180392+00:00 web01 sshd[23816]: Failed password for invalid user admin from 203.0.113.45 port 38450 ssh2
+2026-11-09T04:07:02.575291+00:00 web01 sshd[35068]: Invalid user test from 203.0.113.45 port 33934
+2026-11-09T04:07:04.575291+00:00 web01 sshd[39361]: Failed password for invalid user test from 203.0.113.45 port 33934 ssh2
+2026-11-09T04:07:42.581224+00:00 web01 sshd[1969]: Failed password for root from 203.0.113.45 port 38630 ssh2
+2026-11-09T04:07:54.164619+00:00 web01 sshd[14283]: Failed password for git from 203.0.113.45 port 38199 ssh2
+2026-11-09T04:08:07.827155+00:00 web01 sshd[1373]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T04:08:30.442243+00:00 web01 sshd[32235]: Invalid user test from 203.0.113.45 port 58434
+2026-11-09T04:08:32.442243+00:00 web01 sshd[14777]: Failed password for invalid user test from 203.0.113.45 port 58434 ssh2
+2026-11-09T04:08:37.220699+00:00 web01 sshd[39177]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T04:08:49.602637+00:00 web01 sshd[26873]: Invalid user admin from 203.0.113.45 port 51562
+2026-11-09T04:08:51.602637+00:00 web01 sshd[36181]: Failed password for invalid user admin from 203.0.113.45 port 51562 ssh2
+2026-11-09T04:09:24.841939+00:00 web01 sshd[14927]: Failed password for ubuntu from 203.0.113.45 port 42983 ssh2
+2026-11-09T04:09:46.258088+00:00 web01 sshd[36770]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T04:09:51.856835+00:00 web01 sshd[3316]: Failed password for git from 203.0.113.45 port 61257 ssh2
+2026-11-09T04:10:09.430321+00:00 web01 sshd[8830]: Failed password for ubuntu from 203.0.113.45 port 32463 ssh2
+2026-11-09T04:10:47.853366+00:00 web01 sshd[17958]: Invalid user user from 203.0.113.45 port 37862
+2026-11-09T04:10:49.853366+00:00 web01 sshd[15495]: Failed password for invalid user user from 203.0.113.45 port 37862 ssh2
+2026-11-09T04:11:06.470103+00:00 web01 sshd[39703]: Invalid user user from 203.0.113.45 port 53499
+2026-11-09T04:11:08.470103+00:00 web01 sshd[34482]: Failed password for invalid user user from 203.0.113.45 port 53499 ssh2
+2026-11-09T04:11:26.470276+00:00 web01 sshd[29917]: Failed password for root from 203.0.113.45 port 45810 ssh2
+2026-11-09T04:12:05.930205+00:00 web01 sshd[30714]: Failed password for root from 203.0.113.45 port 33646 ssh2
+2026-11-09T04:12:19.385574+00:00 web01 sshd[23974]: Invalid user admin from 203.0.113.45 port 33295
+2026-11-09T04:12:21.385574+00:00 web01 sshd[20659]: Failed password for invalid user admin from 203.0.113.45 port 33295 ssh2
+2026-11-09T04:12:31.759374+00:00 web01 sshd[10010]: Failed password for root from 203.0.113.45 port 61814 ssh2
+2026-11-09T04:12:42.563639+00:00 web01 sshd[34704]: Invalid user oracle from 203.0.113.45 port 49736
+2026-11-09T04:12:44.563639+00:00 web01 sshd[21999]: Failed password for invalid user oracle from 203.0.113.45 port 49736 ssh2
+2026-11-09T04:13:14.011626+00:00 web01 sshd[5203]: Invalid user test from 203.0.113.45 port 61467
+2026-11-09T04:13:16.011626+00:00 web01 sshd[15813]: Failed password for invalid user test from 203.0.113.45 port 61467 ssh2
+2026-11-09T04:13:18.609095+00:00 web01 sshd[11029]: Invalid user postgres from 203.0.113.45 port 35505
+2026-11-09T04:13:20.609095+00:00 web01 sshd[16216]: Failed password for invalid user postgres from 203.0.113.45 port 35505 ssh2
+2026-11-09T04:13:51.997372+00:00 web01 sshd[23616]: Invalid user oracle from 203.0.113.45 port 49059
+2026-11-09T04:13:53.997372+00:00 web01 sshd[9732]: Failed password for invalid user oracle from 203.0.113.45 port 49059 ssh2
+2026-11-09T04:13:55.687819+00:00 web01 sshd[7313]: Invalid user postgres from 203.0.113.45 port 36414
+2026-11-09T04:13:57.687819+00:00 web01 sshd[30914]: Failed password for invalid user postgres from 203.0.113.45 port 36414 ssh2
+2026-11-09T04:14:05.205922+00:00 web01 sshd[6425]: Invalid user admin from 203.0.113.45 port 30094
+2026-11-09T04:14:07.205922+00:00 web01 sshd[10349]: Failed password for invalid user admin from 203.0.113.45 port 30094 ssh2
+2026-11-09T04:14:30.065505+00:00 web01 sshd[39703]: Invalid user admin from 203.0.113.45 port 49306
+2026-11-09T04:14:32.065505+00:00 web01 sshd[12556]: Failed password for invalid user admin from 203.0.113.45 port 49306 ssh2
+2026-11-09T04:14:35.953381+00:00 web01 sshd[29542]: Invalid user test from 203.0.113.45 port 51264
+2026-11-09T04:14:37.953381+00:00 web01 sshd[4802]: Failed password for invalid user test from 203.0.113.45 port 51264 ssh2
+2026-11-09T04:14:42.235364+00:00 web01 sshd[27216]: Invalid user user from 203.0.113.45 port 34254
+2026-11-09T04:14:44.235364+00:00 web01 sshd[38485]: Failed password for invalid user user from 203.0.113.45 port 34254 ssh2
+2026-11-09T04:14:58.498423+00:00 web01 sshd[23287]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T04:15:02.538806+00:00 web01 sshd[18349]: Failed password for ubuntu from 203.0.113.45 port 55732 ssh2
+2026-11-09T04:15:38.116352+00:00 web01 sshd[31533]: Invalid user postgres from 203.0.113.45 port 62965
+2026-11-09T04:15:40.116352+00:00 web01 sshd[22266]: Failed password for invalid user postgres from 203.0.113.45 port 62965 ssh2
+2026-11-09T04:16:00.948472+00:00 web01 sshd[8702]: Invalid user postgres from 203.0.113.45 port 58093
+2026-11-09T04:16:02.808762+00:00 web01 sshd[6987]: Invalid user admin from 203.0.113.45 port 54261
+2026-11-09T04:16:02.948472+00:00 web01 sshd[13924]: Failed password for invalid user postgres from 203.0.113.45 port 58093 ssh2
+2026-11-09T04:16:04.808762+00:00 web01 sshd[27836]: Failed password for invalid user admin from 203.0.113.45 port 54261 ssh2
+2026-11-09T04:16:24.319822+00:00 web01 sshd[10046]: Invalid user user from 203.0.113.45 port 51648
+2026-11-09T04:16:26.319822+00:00 web01 sshd[7608]: Failed password for invalid user user from 203.0.113.45 port 51648 ssh2
+2026-11-09T04:16:59.300794+00:00 web01 sshd[28517]: Failed password for ubuntu from 203.0.113.45 port 37927 ssh2
+2026-11-09T04:17:25.091233+00:00 web01 sshd[32819]: Failed password for ubuntu from 203.0.113.45 port 60960 ssh2
+2026-11-09T04:17:30.452608+00:00 web01 sshd[2841]: Failed password for git from 203.0.113.45 port 45415 ssh2
+2026-11-09T04:18:04.570084+00:00 web01 sshd[12255]: Invalid user user from 203.0.113.45 port 49986
+2026-11-09T04:18:06.570084+00:00 web01 sshd[8522]: Failed password for invalid user user from 203.0.113.45 port 49986 ssh2
+2026-11-09T04:18:11.970752+00:00 web01 sshd[15342]: Invalid user oracle from 203.0.113.45 port 46431
+2026-11-09T04:18:13.970752+00:00 web01 sshd[9757]: Failed password for invalid user oracle from 203.0.113.45 port 46431 ssh2
+2026-11-09T04:18:28.670173+00:00 web01 sshd[27102]: Invalid user test from 203.0.113.45 port 60688
+2026-11-09T04:18:30.670173+00:00 web01 sshd[34193]: Failed password for invalid user test from 203.0.113.45 port 60688 ssh2
+2026-11-09T04:18:56.963807+00:00 web01 sshd[20390]: Invalid user user from 203.0.113.45 port 42063
+2026-11-09T04:18:58.963807+00:00 web01 sshd[22822]: Failed password for invalid user user from 203.0.113.45 port 42063 ssh2
+2026-11-09T04:19:25.651601+00:00 web01 sshd[32560]: Invalid user test from 203.0.113.45 port 34783
+2026-11-09T04:19:27.651601+00:00 web01 sshd[8631]: Failed password for invalid user test from 203.0.113.45 port 34783 ssh2
+2026-11-09T04:19:42.305022+00:00 web01 sshd[32733]: Failed password for git from 203.0.113.45 port 40567 ssh2
+2026-11-09T04:19:53.978781+00:00 web01 sshd[10343]: Invalid user admin from 203.0.113.45 port 46492
+2026-11-09T04:19:55.978781+00:00 web01 sshd[1805]: Failed password for invalid user admin from 203.0.113.45 port 46492 ssh2
+2026-11-09T04:20:02.466288+00:00 web01 sshd[19488]: Failed password for git from 203.0.113.45 port 50039 ssh2
+2026-11-09T04:20:24.368861+00:00 web01 sshd[35183]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T04:20:31.392913+00:00 web01 sshd[35230]: Failed password for root from 203.0.113.45 port 63267 ssh2
+2026-11-09T04:21:05.120530+00:00 web01 sshd[15309]: Invalid user user from 203.0.113.45 port 57417
+2026-11-09T04:21:07.120530+00:00 web01 sshd[39918]: Failed password for invalid user user from 203.0.113.45 port 57417 ssh2
+2026-11-09T04:21:08.695142+00:00 web01 sshd[12540]: Invalid user oracle from 203.0.113.45 port 43703
+2026-11-09T04:21:10.695142+00:00 web01 sshd[15763]: Failed password for invalid user oracle from 203.0.113.45 port 43703 ssh2
+2026-11-09T04:21:16.332048+00:00 web01 sshd[10063]: Failed password for root from 203.0.113.45 port 34128 ssh2
+2026-11-09T04:21:41.809993+00:00 web01 sshd[26535]: Failed password for git from 203.0.113.45 port 49290 ssh2
+2026-11-09T04:22:05.451627+00:00 web01 sshd[25167]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T04:22:15.520167+00:00 web01 sshd[24754]: Invalid user postgres from 203.0.113.45 port 52538
+2026-11-09T04:22:17.520167+00:00 web01 sshd[21165]: Failed password for invalid user postgres from 203.0.113.45 port 52538 ssh2
+2026-11-09T04:22:38.512394+00:00 web01 sshd[13826]: Invalid user user from 203.0.113.45 port 49742
+2026-11-09T04:22:40.512394+00:00 web01 sshd[35746]: Failed password for invalid user user from 203.0.113.45 port 49742 ssh2
+2026-11-09T04:23:05.524743+00:00 web01 sshd[38703]: Invalid user test from 203.0.113.45 port 51824
+2026-11-09T04:23:07.524743+00:00 web01 sshd[2026]: Failed password for invalid user test from 203.0.113.45 port 51824 ssh2
+2026-11-09T04:23:17.551159+00:00 web01 CRON[9620]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T04:23:46.064718+00:00 web01 sshd[38751]: Failed password for root from 203.0.113.45 port 61694 ssh2
+2026-11-09T04:23:54.784581+00:00 web01 sshd[34718]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T04:24:15.062045+00:00 web01 sshd[31487]: Failed password for ubuntu from 203.0.113.45 port 54853 ssh2
+2026-11-09T04:24:26.898256+00:00 web01 sshd[38058]: Invalid user postgres from 203.0.113.45 port 43095
+2026-11-09T04:24:28.898256+00:00 web01 sshd[18188]: Failed password for invalid user postgres from 203.0.113.45 port 43095 ssh2
+2026-11-09T04:24:43.470837+00:00 web01 sshd[39679]: Invalid user test from 203.0.113.45 port 33681
+2026-11-09T04:24:45.470837+00:00 web01 sshd[9901]: Failed password for invalid user test from 203.0.113.45 port 33681 ssh2
+2026-11-09T04:25:11.981302+00:00 web01 sshd[23568]: Invalid user test from 203.0.113.45 port 37112
+2026-11-09T04:25:13.981302+00:00 web01 sshd[9244]: Failed password for invalid user test from 203.0.113.45 port 37112 ssh2
+2026-11-09T04:25:26.111265+00:00 web01 sshd[15138]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T04:25:31.873803+00:00 web01 sshd[23440]: Failed password for root from 203.0.113.45 port 54381 ssh2
+2026-11-09T04:25:47.848356+00:00 web01 sshd[33280]: Invalid user oracle from 203.0.113.45 port 42278
+2026-11-09T04:25:49.848356+00:00 web01 sshd[12007]: Failed password for invalid user oracle from 203.0.113.45 port 42278 ssh2
+2026-11-09T04:25:56.143133+00:00 web01 sshd[10434]: Failed password for ubuntu from 203.0.113.45 port 33995 ssh2
+2026-11-09T04:26:11.575714+00:00 web01 sshd[39077]: Invalid user postgres from 203.0.113.45 port 52545
+2026-11-09T04:26:13.575714+00:00 web01 sshd[6958]: Failed password for invalid user postgres from 203.0.113.45 port 52545 ssh2
+2026-11-09T04:26:47.471678+00:00 web01 sshd[37540]: Invalid user postgres from 203.0.113.45 port 33998
+2026-11-09T04:26:49.471678+00:00 web01 sshd[33227]: Failed password for invalid user postgres from 203.0.113.45 port 33998 ssh2
+2026-11-09T04:27:00.069211+00:00 web01 sshd[6658]: Failed password for git from 203.0.113.45 port 35591 ssh2
+2026-11-09T04:27:29.434793+00:00 web01 sshd[10478]: Invalid user oracle from 203.0.113.45 port 61269
+2026-11-09T04:27:31.434793+00:00 web01 sshd[19529]: Failed password for invalid user oracle from 203.0.113.45 port 61269 ssh2
+2026-11-09T04:27:33.107466+00:00 web01 sshd[24132]: Failed password for git from 203.0.113.45 port 61535 ssh2
+2026-11-09T04:27:51.186575+00:00 web01 sshd[27518]: Invalid user oracle from 203.0.113.45 port 38018
+2026-11-09T04:27:53.186575+00:00 web01 sshd[38134]: Failed password for invalid user oracle from 203.0.113.45 port 38018 ssh2
+2026-11-09T04:28:06.785689+00:00 web01 sshd[16206]: Invalid user admin from 203.0.113.45 port 45780
+2026-11-09T04:28:08.785689+00:00 web01 sshd[13802]: Failed password for invalid user admin from 203.0.113.45 port 45780 ssh2
+2026-11-09T04:28:39.686744+00:00 web01 sshd[35720]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T04:28:48.859398+00:00 web01 sshd[37590]: Failed password for root from 203.0.113.45 port 43139 ssh2
+2026-11-09T04:28:51.182525+00:00 web01 sshd[5695]: Invalid user postgres from 203.0.113.45 port 33186
+2026-11-09T04:28:53.182525+00:00 web01 sshd[11193]: Failed password for invalid user postgres from 203.0.113.45 port 33186 ssh2
+2026-11-09T04:29:02.778557+00:00 web01 CRON[4193]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T04:29:21.527044+00:00 web01 sshd[1398]: Invalid user test from 203.0.113.45 port 33930
+2026-11-09T04:29:23.527044+00:00 web01 sshd[23805]: Failed password for invalid user test from 203.0.113.45 port 33930 ssh2
+2026-11-09T04:29:53.280088+00:00 web01 sshd[2301]: Failed password for ubuntu from 203.0.113.45 port 40162 ssh2
+2026-11-09T04:30:30.958639+00:00 web01 sshd[24085]: Invalid user admin from 203.0.113.45 port 54245
+2026-11-09T04:30:32.958639+00:00 web01 sshd[12148]: Failed password for invalid user admin from 203.0.113.45 port 54245 ssh2
+2026-11-09T04:30:52.222856+00:00 web01 sshd[25447]: Invalid user postgres from 203.0.113.45 port 57187
+2026-11-09T04:30:52.299723+00:00 web01 sshd[34815]: Failed password for ubuntu from 203.0.113.45 port 36174 ssh2
+2026-11-09T04:30:54.222856+00:00 web01 sshd[28196]: Failed password for invalid user postgres from 203.0.113.45 port 57187 ssh2
+2026-11-09T04:31:00.861388+00:00 web01 sshd[22241]: Invalid user user from 203.0.113.45 port 56375
+2026-11-09T04:31:02.861388+00:00 web01 sshd[17509]: Failed password for invalid user user from 203.0.113.45 port 56375 ssh2
+2026-11-09T04:31:16.185885+00:00 web01 sshd[10781]: Invalid user user from 203.0.113.45 port 44223
+2026-11-09T04:31:18.185885+00:00 web01 sshd[31262]: Failed password for invalid user user from 203.0.113.45 port 44223 ssh2
+2026-11-09T04:31:20.223390+00:00 web01 sshd[37144]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T04:32:35.351544+00:00 web01 sshd[34973]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T04:33:41.323705+00:00 web01 sshd[24767]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T04:34:34.334370+00:00 web01 sshd[14577]: Invalid user guest from 198.51.100.77 port 50698
+2026-11-09T04:34:36.334370+00:00 web01 sshd[36476]: Failed password for invalid user guest from 198.51.100.77 port 50698 ssh2
+2026-11-09T04:35:10.902462+00:00 web01 sshd[34142]: Failed password for root from 198.51.100.77 port 49839 ssh2
+2026-11-09T04:35:23.632467+00:00 web01 sshd[5562]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T04:35:35.590332+00:00 web01 sshd[17199]: Invalid user support from 198.51.100.77 port 49109
+2026-11-09T04:35:37.590332+00:00 web01 sshd[12603]: Failed password for invalid user support from 198.51.100.77 port 49109 ssh2
+2026-11-09T04:35:39.883237+00:00 web01 sshd[27679]: Invalid user guest from 198.51.100.77 port 46148
+2026-11-09T04:35:41.883237+00:00 web01 sshd[17476]: Failed password for invalid user guest from 198.51.100.77 port 46148 ssh2
+2026-11-09T04:36:19.514567+00:00 web01 sshd[16255]: Invalid user support from 198.51.100.77 port 36161
+2026-11-09T04:36:21.514567+00:00 web01 sshd[9356]: Failed password for invalid user support from 198.51.100.77 port 36161 ssh2
+2026-11-09T04:36:39.703228+00:00 web01 sshd[30480]: Invalid user guest from 198.51.100.77 port 51790
+2026-11-09T04:36:41.703228+00:00 web01 sshd[3738]: Failed password for invalid user guest from 198.51.100.77 port 51790 ssh2
+2026-11-09T04:36:52.035166+00:00 web01 sshd[11283]: Failed password for root from 198.51.100.77 port 62344 ssh2
+2026-11-09T04:37:17.262138+00:00 web01 sshd[28508]: Invalid user admin from 198.51.100.77 port 58331
+2026-11-09T04:37:19.262138+00:00 web01 sshd[24964]: Failed password for invalid user admin from 198.51.100.77 port 58331 ssh2
+2026-11-09T04:37:25.685112+00:00 web01 sshd[19887]: Failed password for root from 198.51.100.77 port 46750 ssh2
+2026-11-09T04:37:42.330184+00:00 web01 sshd[32678]: Invalid user guest from 198.51.100.77 port 49521
+2026-11-09T04:37:44.330184+00:00 web01 sshd[26307]: Failed password for invalid user guest from 198.51.100.77 port 49521 ssh2
+2026-11-09T04:38:02.699948+00:00 web01 sshd[18843]: Invalid user pi from 198.51.100.77 port 61182
+2026-11-09T04:38:04.699948+00:00 web01 sshd[1963]: Failed password for invalid user pi from 198.51.100.77 port 61182 ssh2
+2026-11-09T04:38:15.021057+00:00 web01 sshd[2903]: Invalid user admin from 198.51.100.77 port 30545
+2026-11-09T04:38:17.021057+00:00 web01 sshd[8105]: Failed password for invalid user admin from 198.51.100.77 port 30545 ssh2
+2026-11-09T04:38:53.549541+00:00 web01 sshd[38965]: Invalid user guest from 198.51.100.77 port 41754
+2026-11-09T04:38:55.549541+00:00 web01 sshd[18135]: Failed password for invalid user guest from 198.51.100.77 port 41754 ssh2
+2026-11-09T04:39:06.937930+00:00 web01 sshd[20365]: Invalid user pi from 198.51.100.77 port 37268
+2026-11-09T04:39:08.937930+00:00 web01 sshd[31247]: Failed password for invalid user pi from 198.51.100.77 port 37268 ssh2
+2026-11-09T04:39:08.975090+00:00 web01 sshd[35698]: Invalid user admin from 198.51.100.77 port 61082
+2026-11-09T04:39:10.975090+00:00 web01 sshd[10921]: Failed password for invalid user admin from 198.51.100.77 port 61082 ssh2
+2026-11-09T04:39:50.999858+00:00 web01 sshd[11239]: Failed password for root from 198.51.100.77 port 44144 ssh2
+2026-11-09T04:39:56.461425+00:00 web01 sshd[10710]: Invalid user pi from 198.51.100.77 port 30799
+2026-11-09T04:39:58.461425+00:00 web01 sshd[20166]: Failed password for invalid user pi from 198.51.100.77 port 30799 ssh2
+2026-11-09T04:40:08.642273+00:00 web01 sshd[34960]: Invalid user admin from 198.51.100.77 port 45526
+2026-11-09T04:40:10.642273+00:00 web01 sshd[22420]: Failed password for invalid user admin from 198.51.100.77 port 45526 ssh2
+2026-11-09T04:40:18.618878+00:00 web01 CRON[3452]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T04:40:41.782450+00:00 web01 sshd[29315]: Invalid user pi from 198.51.100.77 port 31774
+2026-11-09T04:40:43.782450+00:00 web01 sshd[11002]: Failed password for invalid user pi from 198.51.100.77 port 31774 ssh2
+2026-11-09T04:41:14.068704+00:00 web01 sshd[35736]: Failed password for root from 198.51.100.77 port 60801 ssh2
+2026-11-09T04:41:22.944558+00:00 web01 sshd[29505]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T04:41:52.057122+00:00 web01 sshd[27091]: Failed password for root from 198.51.100.77 port 40548 ssh2
+2026-11-09T04:42:10.186145+00:00 web01 sshd[24964]: Invalid user support from 198.51.100.77 port 63858
+2026-11-09T04:42:12.186145+00:00 web01 sshd[32512]: Failed password for invalid user support from 198.51.100.77 port 63858 ssh2
+2026-11-09T04:42:18.126006+00:00 web01 sshd[34273]: Invalid user admin from 198.51.100.77 port 57050
+2026-11-09T04:42:20.126006+00:00 web01 sshd[21387]: Failed password for invalid user admin from 198.51.100.77 port 57050 ssh2
+2026-11-09T04:42:47.791107+00:00 web01 sshd[25323]: Failed password for root from 198.51.100.77 port 44320 ssh2
+2026-11-09T04:43:25.102382+00:00 web01 sshd[23387]: Invalid user support from 198.51.100.77 port 57959
+2026-11-09T04:43:27.102382+00:00 web01 sshd[19001]: Failed password for invalid user support from 198.51.100.77 port 57959 ssh2
+2026-11-09T04:43:44.445256+00:00 web01 CRON[9933]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T04:43:58.274277+00:00 web01 sshd[21461]: Invalid user admin from 198.51.100.77 port 63447
+2026-11-09T04:44:00.274277+00:00 web01 sshd[22347]: Failed password for invalid user admin from 198.51.100.77 port 63447 ssh2
+2026-11-09T04:44:10.182962+00:00 web01 sshd[14608]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T04:44:11.287828+00:00 web01 sshd[5587]: Invalid user admin from 198.51.100.77 port 43778
+2026-11-09T04:44:13.287828+00:00 web01 sshd[24378]: Failed password for invalid user admin from 198.51.100.77 port 43778 ssh2
+2026-11-09T04:44:20.318283+00:00 web01 sshd[33000]: Invalid user guest from 198.51.100.77 port 49172
+2026-11-09T04:44:22.318283+00:00 web01 sshd[11538]: Failed password for invalid user guest from 198.51.100.77 port 49172 ssh2
+2026-11-09T04:44:53.164952+00:00 web01 sshd[2516]: Invalid user pi from 198.51.100.77 port 41014
+2026-11-09T04:44:55.164952+00:00 web01 sshd[8707]: Failed password for invalid user pi from 198.51.100.77 port 41014 ssh2
+2026-11-09T04:45:09.024189+00:00 web01 sshd[27637]: Invalid user admin from 198.51.100.77 port 43402
+2026-11-09T04:45:11.024189+00:00 web01 sshd[7493]: Failed password for invalid user admin from 198.51.100.77 port 43402 ssh2
+2026-11-09T04:45:18.454373+00:00 web01 sshd[27200]: Invalid user guest from 198.51.100.77 port 33909
+2026-11-09T04:45:20.454373+00:00 web01 sshd[7828]: Failed password for invalid user guest from 198.51.100.77 port 33909 ssh2
+2026-11-09T04:45:40.947506+00:00 web01 sshd[16923]: Invalid user admin from 198.51.100.77 port 64791
+2026-11-09T04:45:42.947506+00:00 web01 sshd[24504]: Failed password for invalid user admin from 198.51.100.77 port 64791 ssh2
+2026-11-09T04:45:48.788717+00:00 web01 sshd[31408]: Invalid user admin from 198.51.100.77 port 43613
+2026-11-09T04:45:50.788717+00:00 web01 sshd[39282]: Failed password for invalid user admin from 198.51.100.77 port 43613 ssh2
+2026-11-09T04:46:02.265967+00:00 web01 CRON[38913]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T04:46:12.289978+00:00 web01 sshd[15915]: Invalid user guest from 198.51.100.77 port 58942
+2026-11-09T04:46:14.243861+00:00 web01 CRON[26097]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T04:46:14.289978+00:00 web01 sshd[4924]: Failed password for invalid user guest from 198.51.100.77 port 58942 ssh2
+2026-11-09T04:46:32.972308+00:00 web01 sshd[30496]: Invalid user guest from 198.51.100.77 port 56740
+2026-11-09T04:46:34.972308+00:00 web01 sshd[20093]: Failed password for invalid user guest from 198.51.100.77 port 56740 ssh2
+2026-11-09T04:47:03.488689+00:00 web01 sshd[17330]: Failed password for root from 198.51.100.77 port 43496 ssh2
+2026-11-09T04:47:33.215299+00:00 web01 sshd[28533]: Invalid user admin from 198.51.100.77 port 39734
+2026-11-09T04:47:35.215299+00:00 web01 sshd[35054]: Failed password for invalid user admin from 198.51.100.77 port 39734 ssh2
+2026-11-09T04:47:53.047200+00:00 web01 CRON[13318]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T04:48:11.757830+00:00 web01 sshd[20128]: Invalid user pi from 198.51.100.77 port 55382
+2026-11-09T04:48:13.757830+00:00 web01 sshd[9036]: Failed password for invalid user pi from 198.51.100.77 port 55382 ssh2
+2026-11-09T04:48:35.241217+00:00 web01 sshd[25565]: Invalid user pi from 198.51.100.77 port 36302
+2026-11-09T04:48:37.241217+00:00 web01 sshd[6943]: Failed password for invalid user pi from 198.51.100.77 port 36302 ssh2
+2026-11-09T04:48:56.344782+00:00 web01 sshd[17843]: Invalid user guest from 198.51.100.77 port 51558
+2026-11-09T04:48:58.344782+00:00 web01 sshd[24371]: Failed password for invalid user guest from 198.51.100.77 port 51558 ssh2
+2026-11-09T04:49:22.844262+00:00 web01 CRON[10692]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T04:49:31.441572+00:00 web01 sshd[27748]: Invalid user support from 198.51.100.77 port 37904
+2026-11-09T04:49:33.441572+00:00 web01 sshd[37707]: Failed password for invalid user support from 198.51.100.77 port 37904 ssh2
+2026-11-09T04:50:07.467858+00:00 web01 sshd[28532]: Invalid user admin from 198.51.100.77 port 54338
+2026-11-09T04:50:09.467858+00:00 web01 sshd[27112]: Failed password for invalid user admin from 198.51.100.77 port 54338 ssh2
+2026-11-09T04:50:29.272358+00:00 web01 sshd[27338]: Failed password for root from 198.51.100.77 port 39842 ssh2
+2026-11-09T04:50:31.096200+00:00 web01 sshd[36454]: Invalid user support from 198.51.100.77 port 55168
+2026-11-09T04:50:33.096200+00:00 web01 sshd[6836]: Failed password for invalid user support from 198.51.100.77 port 55168 ssh2
+2026-11-09T04:50:35.413939+00:00 web01 sshd[14126]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T04:50:56.269430+00:00 web01 sshd[32362]: Invalid user support from 198.51.100.77 port 47741
+2026-11-09T04:50:58.269430+00:00 web01 sshd[1221]: Failed password for invalid user support from 198.51.100.77 port 47741 ssh2
+2026-11-09T04:51:31.431551+00:00 web01 sshd[11901]: Invalid user admin from 198.51.100.77 port 39317
+2026-11-09T04:51:32.318350+00:00 web01 sshd[28901]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T04:51:33.431551+00:00 web01 sshd[10704]: Failed password for invalid user admin from 198.51.100.77 port 39317 ssh2
+2026-11-09T04:51:46.671476+00:00 web01 sshd[34544]: Invalid user pi from 198.51.100.77 port 40044
+2026-11-09T04:51:48.671476+00:00 web01 sshd[15842]: Failed password for invalid user pi from 198.51.100.77 port 40044 ssh2
+2026-11-09T04:51:58.123354+00:00 web01 sshd[16142]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T04:52:26.890336+00:00 web01 sshd[2158]: Invalid user support from 198.51.100.77 port 38109
+2026-11-09T04:52:28.890336+00:00 web01 sshd[26924]: Failed password for invalid user support from 198.51.100.77 port 38109 ssh2
+2026-11-09T04:52:55.387484+00:00 web01 sshd[35694]: Invalid user guest from 198.51.100.77 port 59738
+2026-11-09T04:52:57.387484+00:00 web01 sshd[22447]: Failed password for invalid user guest from 198.51.100.77 port 59738 ssh2
+2026-11-09T04:53:10.796024+00:00 web01 sshd[2281]: Invalid user admin from 198.51.100.77 port 47495
+2026-11-09T04:53:12.796024+00:00 web01 sshd[15468]: Failed password for invalid user admin from 198.51.100.77 port 47495 ssh2
+2026-11-09T04:53:21.326696+00:00 web01 sshd[23749]: Failed password for root from 198.51.100.77 port 64255 ssh2
+2026-11-09T04:53:47.481351+00:00 web01 sshd[22074]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T04:53:52.192168+00:00 web01 sshd[35994]: Invalid user guest from 198.51.100.77 port 54721
+2026-11-09T04:53:54.192168+00:00 web01 sshd[19816]: Failed password for invalid user guest from 198.51.100.77 port 54721 ssh2
+2026-11-09T04:54:14.723867+00:00 web01 sshd[15892]: Invalid user support from 198.51.100.77 port 35863
+2026-11-09T04:54:16.723867+00:00 web01 sshd[9867]: Failed password for invalid user support from 198.51.100.77 port 35863 ssh2
+2026-11-09T04:54:36.107921+00:00 web01 sshd[9480]: Invalid user guest from 198.51.100.77 port 41792
+2026-11-09T04:54:38.107921+00:00 web01 sshd[29787]: Failed password for invalid user guest from 198.51.100.77 port 41792 ssh2
+2026-11-09T04:54:53.161808+00:00 web01 CRON[35942]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T04:54:58.155784+00:00 web01 sshd[17404]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T04:55:07.868500+00:00 web01 sshd[6712]: Invalid user support from 198.51.100.77 port 63834
+2026-11-09T04:55:09.868500+00:00 web01 sshd[17453]: Failed password for invalid user support from 198.51.100.77 port 63834 ssh2
+2026-11-09T04:55:23.181468+00:00 web01 sshd[26389]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T04:55:42.429287+00:00 web01 sshd[38150]: Invalid user admin from 198.51.100.77 port 61664
+2026-11-09T04:55:44.429287+00:00 web01 sshd[6012]: Failed password for invalid user admin from 198.51.100.77 port 61664 ssh2
+2026-11-09T04:56:20.162721+00:00 web01 sshd[37863]: Invalid user support from 198.51.100.77 port 44678
+2026-11-09T04:56:22.162721+00:00 web01 sshd[5399]: Failed password for invalid user support from 198.51.100.77 port 44678 ssh2
+2026-11-09T04:57:00.648753+00:00 web01 sshd[34097]: Invalid user admin from 198.51.100.77 port 35882
+2026-11-09T04:57:02.648753+00:00 web01 sshd[8717]: Failed password for invalid user admin from 198.51.100.77 port 35882 ssh2
+2026-11-09T04:57:34.382794+00:00 web01 sshd[37161]: Invalid user guest from 198.51.100.77 port 39290
+2026-11-09T04:57:36.382794+00:00 web01 sshd[9828]: Failed password for invalid user guest from 198.51.100.77 port 39290 ssh2
+2026-11-09T04:57:38.163867+00:00 web01 sshd[8917]: Invalid user admin from 198.51.100.77 port 33174
+2026-11-09T04:57:40.163867+00:00 web01 sshd[3851]: Failed password for invalid user admin from 198.51.100.77 port 33174 ssh2
+2026-11-09T04:57:47.231636+00:00 web01 sshd[11874]: Invalid user pi from 198.51.100.77 port 41179
+2026-11-09T04:57:49.231636+00:00 web01 sshd[14730]: Failed password for invalid user pi from 198.51.100.77 port 41179 ssh2
+2026-11-09T04:57:53.311854+00:00 web01 CRON[1799]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T04:58:16.105217+00:00 web01 sshd[6232]: Invalid user pi from 198.51.100.77 port 55264
+2026-11-09T04:58:18.105217+00:00 web01 sshd[7998]: Failed password for invalid user pi from 198.51.100.77 port 55264 ssh2
+2026-11-09T04:58:22.824402+00:00 web01 sshd[26091]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T04:58:44.320410+00:00 web01 sshd[15535]: Failed password for root from 198.51.100.77 port 40307 ssh2
+2026-11-09T04:58:49.464621+00:00 web01 sshd[5322]: Failed password for root from 198.51.100.77 port 30388 ssh2
+2026-11-09T04:59:18.130147+00:00 web01 sshd[26184]: Invalid user support from 198.51.100.77 port 51176
+2026-11-09T04:59:20.130147+00:00 web01 sshd[17097]: Failed password for invalid user support from 198.51.100.77 port 51176 ssh2
+2026-11-09T04:59:21.256887+00:00 web01 sshd[25274]: Invalid user support from 198.51.100.77 port 52894
+2026-11-09T04:59:23.256887+00:00 web01 sshd[21600]: Failed password for invalid user support from 198.51.100.77 port 52894 ssh2
+2026-11-09T04:59:24.812482+00:00 web01 sshd[28778]: Invalid user pi from 198.51.100.77 port 43755
+2026-11-09T04:59:26.812482+00:00 web01 sshd[5048]: Failed password for invalid user pi from 198.51.100.77 port 43755 ssh2
+2026-11-09T04:59:53.761813+00:00 web01 sshd[19513]: Invalid user admin from 198.51.100.77 port 36459
+2026-11-09T04:59:55.761813+00:00 web01 sshd[26253]: Failed password for invalid user admin from 198.51.100.77 port 36459 ssh2
+2026-11-09T05:00:03.068137+00:00 web01 sshd[17224]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T05:00:34.224542+00:00 web01 sshd[3511]: Invalid user admin from 198.51.100.77 port 43018
+2026-11-09T05:00:36.224542+00:00 web01 sshd[7490]: Failed password for invalid user admin from 198.51.100.77 port 43018 ssh2
+2026-11-09T05:00:39.996002+00:00 web01 sshd[22691]: Invalid user guest from 198.51.100.77 port 49325
+2026-11-09T05:00:41.996002+00:00 web01 sshd[23773]: Failed password for invalid user guest from 198.51.100.77 port 49325 ssh2
+2026-11-09T05:00:47.958125+00:00 web01 sshd[28050]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T05:00:59.933426+00:00 web01 sshd[24326]: Invalid user admin from 198.51.100.77 port 39575
+2026-11-09T05:01:01.933426+00:00 web01 sshd[2143]: Failed password for invalid user admin from 198.51.100.77 port 39575 ssh2
+2026-11-09T05:01:29.598063+00:00 web01 sshd[26409]: Invalid user admin from 198.51.100.77 port 31251
+2026-11-09T05:01:30.839002+00:00 web01 sshd[4764]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T05:01:31.598063+00:00 web01 sshd[11639]: Failed password for invalid user admin from 198.51.100.77 port 31251 ssh2
+2026-11-09T05:02:07.019396+00:00 web01 sshd[15617]: Failed password for root from 198.51.100.77 port 42917 ssh2
+2026-11-09T05:02:35.322152+00:00 web01 sshd[27327]: Invalid user support from 198.51.100.77 port 32492
+2026-11-09T05:02:37.322152+00:00 web01 sshd[2423]: Failed password for invalid user support from 198.51.100.77 port 32492 ssh2
+2026-11-09T05:02:46.169217+00:00 web01 sshd[2319]: Failed password for root from 198.51.100.77 port 53645 ssh2
+2026-11-09T05:03:00.642075+00:00 web01 sshd[27259]: Invalid user guest from 198.51.100.77 port 33893
+2026-11-09T05:03:02.642075+00:00 web01 sshd[11927]: Failed password for invalid user guest from 198.51.100.77 port 33893 ssh2
+2026-11-09T05:03:05.304155+00:00 web01 sshd[6608]: Invalid user guest from 198.51.100.77 port 51172
+2026-11-09T05:03:07.304155+00:00 web01 sshd[10089]: Failed password for invalid user guest from 198.51.100.77 port 51172 ssh2
+2026-11-09T05:03:45.890438+00:00 web01 sshd[16194]: Invalid user guest from 198.51.100.77 port 31008
+2026-11-09T05:03:47.890438+00:00 web01 sshd[17002]: Failed password for invalid user guest from 198.51.100.77 port 31008 ssh2
+2026-11-09T05:04:22.649058+00:00 web01 sshd[9447]: Invalid user support from 198.51.100.77 port 58921
+2026-11-09T05:04:24.649058+00:00 web01 sshd[34701]: Failed password for invalid user support from 198.51.100.77 port 58921 ssh2
+2026-11-09T05:04:33.056261+00:00 web01 sshd[21414]: Invalid user admin from 198.51.100.77 port 62307
+2026-11-09T05:04:35.056261+00:00 web01 sshd[29797]: Failed password for invalid user admin from 198.51.100.77 port 62307 ssh2
+2026-11-09T05:04:45.625838+00:00 web01 sshd[33184]: Invalid user support from 198.51.100.77 port 59515
+2026-11-09T05:04:47.625838+00:00 web01 sshd[34067]: Failed password for invalid user support from 198.51.100.77 port 59515 ssh2
+2026-11-09T05:04:52.523642+00:00 web01 sshd[1727]: Invalid user support from 198.51.100.77 port 46694
+2026-11-09T05:04:54.523642+00:00 web01 sshd[27635]: Failed password for invalid user support from 198.51.100.77 port 46694 ssh2
+2026-11-09T05:05:22.636022+00:00 web01 sshd[28223]: Invalid user admin from 198.51.100.77 port 34929
+2026-11-09T05:05:24.636022+00:00 web01 sshd[38399]: Failed password for invalid user admin from 198.51.100.77 port 34929 ssh2
+2026-11-09T05:05:43.343101+00:00 web01 sshd[25435]: Failed password for root from 198.51.100.77 port 36903 ssh2
+2026-11-09T05:05:43.871240+00:00 web01 sshd[27716]: Invalid user support from 198.51.100.77 port 58574
+2026-11-09T05:05:45.871240+00:00 web01 sshd[4929]: Failed password for invalid user support from 198.51.100.77 port 58574 ssh2
+2026-11-09T05:05:54.007812+00:00 web01 sshd[9543]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T05:06:10.681507+00:00 web01 sshd[36603]: Failed password for root from 198.51.100.77 port 55562 ssh2
+2026-11-09T05:06:33.111146+00:00 web01 sshd[22838]: Invalid user pi from 198.51.100.77 port 34237
+2026-11-09T05:06:35.111146+00:00 web01 sshd[18072]: Failed password for invalid user pi from 198.51.100.77 port 34237 ssh2
+2026-11-09T05:07:08.464020+00:00 web01 sshd[29745]: Invalid user pi from 198.51.100.77 port 54047
+2026-11-09T05:07:10.464020+00:00 web01 sshd[31254]: Failed password for invalid user pi from 198.51.100.77 port 54047 ssh2
+2026-11-09T05:07:12.626242+00:00 web01 sshd[16385]: Invalid user admin from 198.51.100.77 port 54837
+2026-11-09T05:07:14.626242+00:00 web01 sshd[36531]: Failed password for invalid user admin from 198.51.100.77 port 54837 ssh2
+2026-11-09T05:07:18.229021+00:00 web01 sshd[13803]: Invalid user pi from 198.51.100.77 port 59171
+2026-11-09T05:07:20.229021+00:00 web01 sshd[14201]: Failed password for invalid user pi from 198.51.100.77 port 59171 ssh2
+2026-11-09T05:07:32.296774+00:00 web01 sshd[33369]: Failed password for root from 198.51.100.77 port 32546 ssh2
+2026-11-09T05:07:51.505704+00:00 web01 sshd[34548]: Invalid user support from 198.51.100.77 port 46382
+2026-11-09T05:07:53.505704+00:00 web01 sshd[20678]: Failed password for invalid user support from 198.51.100.77 port 46382 ssh2
+2026-11-09T05:08:02.361596+00:00 web01 sshd[32822]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T05:08:20.267730+00:00 web01 sshd[29908]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T05:08:27.990372+00:00 web01 sshd[14454]: Invalid user admin from 198.51.100.77 port 32878
+2026-11-09T05:08:29.990372+00:00 web01 sshd[16621]: Failed password for invalid user admin from 198.51.100.77 port 32878 ssh2
+2026-11-09T05:08:52.187190+00:00 web01 sshd[33138]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T05:09:06.922256+00:00 web01 sshd[4896]: Invalid user support from 198.51.100.77 port 39313
+2026-11-09T05:09:08.922256+00:00 web01 sshd[25096]: Failed password for invalid user support from 198.51.100.77 port 39313 ssh2
+2026-11-09T05:09:21.698243+00:00 web01 sshd[10135]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T05:09:22.382017+00:00 web01 sshd[6766]: Invalid user support from 198.51.100.77 port 49839
+2026-11-09T05:09:24.382017+00:00 web01 sshd[31685]: Failed password for invalid user support from 198.51.100.77 port 49839 ssh2
+2026-11-09T05:09:37.708462+00:00 web01 sshd[1583]: Invalid user support from 198.51.100.77 port 36627
+2026-11-09T05:09:39.708462+00:00 web01 sshd[15484]: Failed password for invalid user support from 198.51.100.77 port 36627 ssh2
+2026-11-09T05:17:13.727329+00:00 web01 sshd[24770]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T05:19:14.459877+00:00 web01 CRON[9392]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T05:20:02.881895+00:00 web01 sshd[24569]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T05:20:38.775573+00:00 web01 CRON[14706]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T05:26:00.640639+00:00 web01 sshd[8686]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T05:28:31.805037+00:00 web01 sshd[19876]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T05:29:44.669474+00:00 web01 sshd[39377]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T05:29:51.879059+00:00 web01 sshd[14201]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T05:31:58.733535+00:00 web01 CRON[32071]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T05:32:11.040276+00:00 web01 sshd[5720]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T05:33:28.041838+00:00 web01 sshd[15181]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T05:34:21.705905+00:00 web01 sshd[3609]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T05:36:18.405950+00:00 web01 CRON[13545]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T05:36:40.201854+00:00 web01 sshd[12157]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T05:39:50.058673+00:00 web01 sshd[30658]: Accepted publickey for alice from 192.0.2.10 port 51380 ssh2: ED25519 SHA256:XMonQNIYaPN9Umx755smnChLbv7TYW43j7XmRuXrcAF
+2026-11-09T05:42:21.528030+00:00 web01 sshd[37061]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T05:43:54.072566+00:00 web01 sshd[23554]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T05:45:52.114434+00:00 web01 CRON[21647]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T05:49:21.498329+00:00 web01 sshd[32569]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T05:53:37.448423+00:00 web01 sshd[29785]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T05:53:43.343117+00:00 web01 CRON[29603]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T05:54:52.998183+00:00 web01 sshd[18546]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T05:56:49.309589+00:00 web01 CRON[32560]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T05:59:16.630014+00:00 web01 sshd[32379]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T05:59:21.446205+00:00 web01 CRON[7409]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T06:01:40.412268+00:00 web01 sshd[32622]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:01:52.420201+00:00 web01 sshd[13514]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:02:43.767728+00:00 web01 CRON[37439]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T06:03:09.351309+00:00 web01 sshd[7776]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:06:03.792689+00:00 web01 sshd[11353]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:06:13.489133+00:00 web01 sshd[38644]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:06:37.755434+00:00 web01 sshd[31220]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:08:22.023390+00:00 web01 sshd[6892]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:08:30.983740+00:00 web01 CRON[28322]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T06:11:03.178898+00:00 web01 sshd[34046]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:13:14.171851+00:00 web01 sshd[11550]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:14:32.423652+00:00 web01 sshd[31979]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:15:31.691036+00:00 web01 sshd[4408]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T06:15:38.617730+00:00 web01 sshd[11169]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:17:27.897287+00:00 web01 sshd[35420]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T06:21:44.974242+00:00 web01 sshd[28116]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:23:36.012247+00:00 web01 sshd[13860]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:24:26.032333+00:00 web01 sshd[5250]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:25:51.771884+00:00 web01 sshd[8979]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:26:59.244861+00:00 web01 sshd[36965]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:27:22.743157+00:00 web01 sshd[8773]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:27:30.520352+00:00 web01 sshd[15211]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:28:07.394815+00:00 web01 CRON[23132]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T06:29:11.631166+00:00 web01 CRON[31752]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T06:29:53.639565+00:00 web01 CRON[22413]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T06:33:21.138291+00:00 web01 sshd[32564]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:33:59.754955+00:00 web01 sshd[21740]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:35:42.421075+00:00 web01 sshd[5966]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:39:01.316474+00:00 web01 sshd[26926]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:39:02.676528+00:00 web01 sshd[14078]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:39:38.135437+00:00 web01 sshd[39742]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T06:40:06.457559+00:00 web01 sshd[18492]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:40:30.882743+00:00 web01 sshd[29960]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T06:42:31.181759+00:00 web01 CRON[35534]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T06:42:56.994202+00:00 web01 CRON[16559]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T06:44:02.486595+00:00 web01 sshd[12187]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T06:45:00.667666+00:00 web01 sshd[26170]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:46:42.727874+00:00 web01 CRON[22905]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T06:47:04.303364+00:00 web01 sshd[1296]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:48:43.991815+00:00 web01 sshd[7705]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:49:11.620184+00:00 web01 sshd[4962]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:51:08.758985+00:00 web01 CRON[34707]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T06:51:49.866370+00:00 web01 sshd[22789]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T06:53:19.104490+00:00 web01 sshd[16700]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T06:55:34.982989+00:00 web01 sshd[14446]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:56:25.426165+00:00 web01 sshd[28825]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:56:29.848826+00:00 web01 sshd[18556]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T06:57:10.032855+00:00 web01 CRON[11493]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T06:59:05.519657+00:00 web01 CRON[31427]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T07:00:02.943274+00:00 web01 CRON[22399]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T07:00:39.234226+00:00 web01 CRON[31669]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T07:04:41.772906+00:00 web01 sshd[28817]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T07:09:25.474300+00:00 web01 sshd[28064]: Accepted publickey for alice from 192.0.2.10 port 58634 ssh2: ED25519 SHA256:Txlaxiwio0N8ggwDetc3xeutVijPEIDKyL7z2ial25a
+2026-11-09T07:10:34.162098+00:00 web01 sshd[30147]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T07:10:34.259196+00:00 web01 CRON[19572]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T07:13:34.712962+00:00 web01 sshd[17135]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T07:14:53.186739+00:00 web01 sshd[18913]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T07:15:02.306397+00:00 web01 CRON[13452]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T07:15:31.671644+00:00 web01 CRON[4986]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T07:15:57.199093+00:00 web01 CRON[20117]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T07:16:09.468094+00:00 web01 sshd[36906]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T07:16:38.604094+00:00 web01 sshd[22236]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T07:18:43.869679+00:00 web01 CRON[33278]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T07:19:56.596361+00:00 web01 sshd[18309]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T07:22:04.495671+00:00 web01 sshd[9031]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T07:22:47.247753+00:00 web01 sshd[38533]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T07:22:49.291079+00:00 web01 CRON[15503]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T07:23:42.328469+00:00 web01 sshd[18420]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T07:26:29.367815+00:00 web01 sshd[36581]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T07:30:06.695968+00:00 web01 sshd[6573]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T07:31:04.347521+00:00 web01 sshd[35691]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T07:32:42.388229+00:00 web01 sshd[20235]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T07:32:46.403026+00:00 web01 sshd[24979]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T07:35:00.793658+00:00 web01 sshd[31125]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T07:40:36.648737+00:00 web01 sshd[16320]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T07:43:40.531232+00:00 web01 CRON[8050]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T07:43:51.616116+00:00 web01 sshd[28277]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T07:43:58.313093+00:00 web01 sshd[17308]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T07:44:13.285813+00:00 web01 sshd[8485]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T07:44:36.994093+00:00 web01 sshd[15432]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T07:45:10.670497+00:00 web01 sshd[35615]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T07:45:22.753405+00:00 web01 sshd[15786]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T07:58:08.302445+00:00 web01 sshd[9923]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T07:59:55.719694+00:00 web01 CRON[11464]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:00:00.065775+00:00 web01 CRON[29859]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:00:44.827903+00:00 web01 CRON[2903]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:01:54.121632+00:00 web01 CRON[8621]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:03:46.691369+00:00 web01 sshd[25820]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T08:04:09.365024+00:00 web01 sshd[38149]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T08:05:39.593108+00:00 web01 CRON[35194]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:05:53.866928+00:00 web01 sshd[6841]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T08:05:58.662515+00:00 web01 sshd[38611]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T08:08:30.008440+00:00 web01 sshd[34714]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T08:11:02.858075+00:00 web01 sshd[6657]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T08:12:20.597716+00:00 web01 CRON[5762]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:14:03.645441+00:00 web01 sshd[1608]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T08:15:10.773444+00:00 web01 sshd[27925]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T08:16:03.389368+00:00 web01 sshd[17955]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T08:16:58.123999+00:00 web01 CRON[9811]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:20:09.305027+00:00 web01 sshd[24641]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T08:21:55.101415+00:00 web01 sshd[27534]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T08:23:33.391916+00:00 web01 CRON[6100]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:24:36.372412+00:00 web01 sshd[31752]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T08:29:40.717883+00:00 web01 sshd[7517]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T08:32:07.275603+00:00 web01 sshd[22977]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T08:32:21.963214+00:00 web01 sshd[17631]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T08:32:53.454962+00:00 web01 sshd[18067]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T08:33:10.874944+00:00 web01 CRON[19965]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:34:01.816373+00:00 web01 CRON[7312]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:34:52.899373+00:00 web01 sshd[8285]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T08:38:13.541631+00:00 web01 sshd[6480]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T08:38:48.573118+00:00 web01 CRON[27502]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:41:44.789296+00:00 web01 sshd[39110]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T08:42:10.227004+00:00 web01 sshd[2898]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T08:42:37.997903+00:00 web01 sshd[34542]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T08:43:50.688126+00:00 web01 sshd[6780]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T08:44:53.343299+00:00 web01 sshd[15853]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T08:45:24.643960+00:00 web01 sshd[13814]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T08:48:32.934415+00:00 web01 sshd[19042]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T08:49:06.392209+00:00 web01 sshd[37462]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T08:50:31.605701+00:00 web01 CRON[20260]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T08:50:51.387657+00:00 web01 sshd[31419]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T08:54:00.717509+00:00 web01 sshd[13936]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T08:56:43.983851+00:00 web01 sshd[18225]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T08:58:49.090753+00:00 web01 sshd[20743]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T08:59:56.797553+00:00 web01 sshd[38436]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T09:00:38.349214+00:00 web01 sshd[30165]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T09:00:56.204585+00:00 web01 CRON[37638]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T09:02:33.046839+00:00 web01 sshd[21558]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T09:04:46.428400+00:00 web01 sshd[37953]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T09:06:32.568746+00:00 web01 sshd[17829]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T09:07:18.419519+00:00 web01 sshd[11490]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T09:07:54.810137+00:00 web01 sshd[23220]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T09:07:56.862265+00:00 web01 sshd[23683]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T09:08:55.583251+00:00 web01 CRON[38935]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T09:09:01.675154+00:00 web01 CRON[37922]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T09:09:09.985704+00:00 web01 CRON[13747]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T09:09:38.021588+00:00 web01 sshd[24128]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T09:15:26.264955+00:00 web01 sshd[30536]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T09:17:07.306707+00:00 web01 sshd[13724]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T09:17:13.060090+00:00 web01 sshd[36229]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T09:17:43.782674+00:00 web01 sshd[7651]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T09:20:55.294160+00:00 web01 sshd[1742]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T09:21:27.444276+00:00 web01 CRON[31484]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T09:27:05.400686+00:00 web01 sshd[24370]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T09:27:39.330331+00:00 web01 sshd[36351]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T09:29:36.198199+00:00 web01 sshd[7152]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T09:30:36.094150+00:00 web01 sshd[26749]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T09:30:52.945385+00:00 web01 sshd[37577]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T09:31:26.536102+00:00 web01 sshd[9854]: Accepted publickey for bob from 192.0.2.24 port 57843 ssh2: ED25519 SHA256:IKQOa8B65aVnZUiMtLUGGZoF9TCPtN4qXPN5muSxzUF
+2026-11-09T09:33:29.148098+00:00 web01 CRON[23550]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T09:41:35.908355+00:00 web01 sshd[17425]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T09:42:20.435893+00:00 web01 sshd[31444]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T09:42:21.140926+00:00 web01 sshd[28132]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T09:42:29.997670+00:00 web01 sshd[30115]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T09:45:43.711798+00:00 web01 sshd[8986]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T09:46:40.071116+00:00 web01 sshd[37618]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T09:50:37.635174+00:00 web01 sshd[3196]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T09:52:49.624540+00:00 web01 sshd[18210]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T09:57:02.034150+00:00 web01 CRON[37175]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T09:58:31.471259+00:00 web01 sshd[20883]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T09:59:39.818919+00:00 web01 sshd[12128]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T10:01:03.506709+00:00 web01 sshd[16638]: Accepted publickey for bob from 192.0.2.24 port 49918 ssh2: ED25519 SHA256:pudmgbVZsXdE4QdfCc2GgF4mdv73qcUURiTOxBIVkQV
+2026-11-09T10:01:12.515610+00:00 web01 sshd[2328]: Accepted publickey for alice from 192.0.2.10 port 59470 ssh2: ED25519 SHA256:49C6kMbpSesWUR8qpJvpCiSJcE2tecsKLONCnbsZTTq
+2026-11-09T10:02:17.522528+00:00 web01 sshd[11041]: Accepted publickey for bob from 192.0.2.24 port 48668 ssh2: ED25519 SHA256:4qHi9PyTg4eyzIubojfWDkTuQmuzvw1QuszUVTlubOw
+2026-11-09T10:09:06.657277+00:00 web01 sshd[14098]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T10:11:35.069293+00:00 web01 sshd[1801]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T10:18:05.545728+00:00 web01 sshd[9945]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T10:19:13.925455+00:00 web01 sshd[38675]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T10:20:08.246479+00:00 web01 sshd[7855]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T10:21:10.572376+00:00 web01 sshd[32987]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T10:22:16.487065+00:00 web01 sshd[2353]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T10:22:42.646596+00:00 web01 sshd[23760]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T10:22:59.984706+00:00 web01 CRON[10691]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T10:25:36.720776+00:00 web01 sshd[26692]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T10:28:18.941023+00:00 web01 CRON[28559]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T10:34:46.090428+00:00 web01 sshd[2446]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T10:36:07.424068+00:00 web01 sshd[7390]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T10:36:37.261790+00:00 web01 sshd[37737]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T10:37:56.215412+00:00 web01 sshd[15768]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T10:40:51.697740+00:00 web01 CRON[35438]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T10:42:57.529158+00:00 web01 sshd[26670]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T10:43:04.520392+00:00 web01 sshd[27013]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T10:44:16.125194+00:00 web01 CRON[24871]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T10:44:33.760636+00:00 web01 sshd[14977]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T10:44:43.948025+00:00 web01 sshd[28523]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T10:47:20.209553+00:00 web01 sshd[39406]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T10:47:45.172761+00:00 web01 sshd[22352]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T10:53:54.501809+00:00 web01 CRON[3317]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T10:55:09.205628+00:00 web01 sshd[15311]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T10:55:13.209243+00:00 web01 sshd[27826]: Accepted publickey for bob from 192.0.2.24 port 61038 ssh2: ED25519 SHA256:to6aE75OoRZN1N79NvEMznc1Bl5Qb906Oy8Hg0jtpse
+2026-11-09T10:57:00.377312+00:00 web01 sshd[39290]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T10:57:21.112618+00:00 web01 sshd[5087]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T10:57:44.157058+00:00 web01 CRON[17362]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T10:58:41.586945+00:00 web01 sshd[34659]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T11:00:13.995720+00:00 web01 sshd[28217]: Accepted publickey for deploy from 192.0.2.31 port 46080 ssh2: ED25519 SHA256:GfSQhhXudc5rSNUqHUAxBG0RbkyrhVsPJhnsuxHtWA6
+2026-11-09T11:01:45.389049+00:00 web01 sshd[1046]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T11:07:13.607150+00:00 web01 sshd[17135]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T11:07:53.703807+00:00 web01 CRON[36951]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T11:14:29.264811+00:00 web01 sshd[26397]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T11:18:17.066602+00:00 web01 CRON[2184]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T11:21:48.375130+00:00 web01 sshd[27839]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T11:23:48.485628+00:00 web01 sshd[13335]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T11:26:04.464756+00:00 web01 sshd[4288]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T11:29:52.120295+00:00 web01 sshd[24167]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T11:29:52.209111+00:00 web01 sshd[23576]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T11:31:29.077179+00:00 web01 sshd[38072]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T11:32:41.834895+00:00 web01 sshd[5691]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T11:33:47.812485+00:00 web01 sshd[18446]: Accepted publickey for alice from 192.0.2.10 port 51251 ssh2: ED25519 SHA256:PkSVTlyULh8YGaOvEAsLQkVbEhQbnjgYVvwfQc0Lq6t
+2026-11-09T11:34:52.840705+00:00 web01 sshd[8771]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T11:35:38.590507+00:00 web01 sshd[24591]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T11:38:52.227206+00:00 web01 sshd[33810]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T11:41:39.056113+00:00 web01 sshd[12415]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T11:44:09.966233+00:00 web01 sshd[39208]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T11:45:13.809775+00:00 web01 sshd[8214]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T11:48:24.155477+00:00 web01 sshd[1726]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T11:50:18.015751+00:00 web01 sshd[28334]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T11:51:12.043477+00:00 web01 sshd[35305]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T11:56:04.841967+00:00 web01 sshd[13843]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T11:56:40.660192+00:00 web01 sshd[33244]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T11:56:50.263929+00:00 web01 sshd[36704]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T12:01:29.908771+00:00 web01 sshd[27671]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T12:04:29.669338+00:00 web01 sshd[15783]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T12:04:45.730704+00:00 web01 sshd[25516]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T12:04:46.392722+00:00 web01 sshd[18485]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T12:06:08.019214+00:00 web01 CRON[7784]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:08:26.996282+00:00 web01 CRON[36414]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:09:08.831473+00:00 web01 sshd[14678]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T12:13:51.725818+00:00 web01 CRON[27830]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:16:11.792436+00:00 web01 sshd[1815]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T12:16:22.240068+00:00 web01 sshd[26515]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T12:16:59.316353+00:00 web01 sshd[3615]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T12:18:40.712747+00:00 web01 CRON[4438]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:19:03.037022+00:00 web01 sshd[4460]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T12:20:03.151887+00:00 web01 sshd[34929]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T12:20:55.963953+00:00 web01 sshd[31458]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T12:21:56.316898+00:00 web01 CRON[11831]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:23:58.003969+00:00 web01 sshd[16927]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T12:27:44.360332+00:00 web01 CRON[36513]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:28:36.275551+00:00 web01 CRON[15513]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:31:36.080014+00:00 web01 CRON[24630]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:32:52.453223+00:00 web01 sshd[13032]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T12:34:23.286183+00:00 web01 sshd[6393]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T12:34:27.373925+00:00 web01 sshd[6920]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T12:34:41.774075+00:00 web01 sshd[31687]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T12:37:22.684371+00:00 web01 sshd[30996]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T12:37:41.086127+00:00 web01 CRON[8876]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:40:29.684121+00:00 web01 sshd[35118]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T12:43:50.368367+00:00 web01 sshd[37040]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T12:46:28.722464+00:00 web01 sshd[36390]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T12:46:29.478205+00:00 web01 sshd[31510]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T12:47:05.817927+00:00 web01 sshd[12827]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T12:50:57.592158+00:00 web01 sshd[14630]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T12:51:18.830699+00:00 web01 sshd[20608]: Accepted publickey for alice from 192.0.2.10 port 45567 ssh2: ED25519 SHA256:FASoMqGJnZk53aqZ0cuEEoIQXAy4Ph5087g4J40ZeCp
+2026-11-09T12:52:18.359683+00:00 web01 CRON[16909]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:52:21.661303+00:00 web01 CRON[32959]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:56:33.262369+00:00 web01 sshd[33209]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T12:56:44.953269+00:00 web01 CRON[30479]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:57:24.901203+00:00 web01 CRON[30173]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T12:57:33.791814+00:00 web01 sshd[24232]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T12:58:49.283477+00:00 web01 sshd[30431]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T13:01:54.501383+00:00 web01 sshd[21310]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T13:02:12.026798+00:00 web01 CRON[12434]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T13:03:41.304820+00:00 web01 sshd[25062]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T13:03:56.801052+00:00 web01 sshd[12396]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T13:08:50.332837+00:00 web01 sshd[16734]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T13:12:40.038856+00:00 web01 sshd[26341]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T13:14:55.003124+00:00 web01 sshd[29659]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T13:16:15.915042+00:00 web01 CRON[34952]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T13:18:29.296623+00:00 web01 sshd[35520]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T13:20:16.765232+00:00 web01 sshd[24204]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T13:20:35.281229+00:00 web01 sshd[21598]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T13:20:36.225807+00:00 web01 sshd[5611]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T13:20:51.262877+00:00 web01 CRON[5352]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T13:23:40.844521+00:00 web01 sshd[9137]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T13:24:38.164260+00:00 web01 sshd[39363]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T13:25:12.875691+00:00 web01 CRON[14078]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T13:26:14.760446+00:00 web01 CRON[10512]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T13:27:52.026159+00:00 web01 sshd[27705]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T13:28:10.540065+00:00 web01 CRON[1653]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T13:28:12.240914+00:00 web01 sshd[27825]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T13:29:12.776294+00:00 web01 sshd[6538]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T13:31:07.145896+00:00 web01 sshd[7892]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T13:31:23.145952+00:00 web01 sshd[26061]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T13:31:26.338824+00:00 web01 sshd[18641]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T13:33:39.825784+00:00 web01 sshd[19586]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T13:37:29.369728+00:00 web01 sshd[11874]: Accepted publickey for bob from 192.0.2.24 port 40858 ssh2: ED25519 SHA256:kQp4fzmrlYIEoGOyjaWKlMvTSV0C7EtxROPNqkhT7r6
+2026-11-09T13:39:31.358497+00:00 web01 sshd[20179]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T13:42:56.671281+00:00 web01 CRON[11147]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T13:43:54.782417+00:00 web01 CRON[11346]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T13:44:38.326543+00:00 web01 sshd[7095]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T13:46:15.291100+00:00 web01 sshd[7383]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T13:47:32.760019+00:00 web01 sshd[36343]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T13:48:27.132940+00:00 web01 sshd[31720]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T13:48:57.417704+00:00 web01 sshd[6915]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T13:49:31.894573+00:00 web01 sshd[6465]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T13:50:21.259798+00:00 web01 CRON[30257]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T13:51:13.494411+00:00 web01 sshd[2532]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T13:54:56.979954+00:00 web01 sshd[32771]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T13:55:59.829046+00:00 web01 sshd[34349]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T13:57:19.705573+00:00 web01 sshd[16531]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T13:57:34.662757+00:00 web01 sshd[20143]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T13:58:35.343101+00:00 web01 sshd[27405]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T14:01:57.509274+00:00 web01 sshd[1402]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T14:04:41.041720+00:00 web01 sshd[13738]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:09:42.260597+00:00 web01 sshd[6120]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T14:09:51.688109+00:00 web01 sshd[2915]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:12:32.235888+00:00 web01 sshd[3695]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:12:49.265407+00:00 web01 CRON[28651]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:13:12.137545+00:00 web01 sshd[32298]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:14:16.821892+00:00 web01 sshd[35646]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:15:29.782121+00:00 web01 sshd[29699]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:15:50.848055+00:00 web01 sshd[6342]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:20:51.236866+00:00 web01 sshd[15726]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T14:21:11.013627+00:00 web01 CRON[18025]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:22:03.094811+00:00 web01 CRON[1580]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:22:19.870385+00:00 web01 sshd[34818]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:24:29.677300+00:00 web01 CRON[34057]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:25:56.309965+00:00 web01 sshd[13101]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T14:27:08.055655+00:00 web01 sshd[34816]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T14:27:49.052617+00:00 web01 sshd[33474]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T14:31:00.475732+00:00 web01 sshd[8635]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T14:31:52.484612+00:00 web01 sshd[16874]: Failed password for root from 203.0.113.9 port 30342 ssh2
+2026-11-09T14:32:00.501654+00:00 web01 sshd[2333]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T14:32:32.094006+00:00 web01 sshd[35267]: Failed password for root from 203.0.113.9 port 34516 ssh2
+2026-11-09T14:33:05.969722+00:00 web01 sshd[7249]: Failed password for root from 203.0.113.9 port 54046 ssh2
+2026-11-09T14:33:08.887009+00:00 web01 CRON[13119]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:33:31.977321+00:00 web01 sshd[23023]: Failed password for root from 203.0.113.9 port 51285 ssh2
+2026-11-09T14:33:51.152975+00:00 web01 sshd[5816]: Failed password for root from 203.0.113.9 port 58864 ssh2
+2026-11-09T14:34:18.307198+00:00 web01 sshd[4260]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:34:21.600371+00:00 web01 sshd[21851]: Failed password for root from 203.0.113.9 port 40460 ssh2
+2026-11-09T14:34:29.012957+00:00 web01 sshd[30487]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:34:30.670620+00:00 web01 sshd[18493]: Failed password for root from 203.0.113.9 port 54482 ssh2
+2026-11-09T14:34:54.033968+00:00 web01 sshd[27975]: Failed password for root from 203.0.113.9 port 39843 ssh2
+2026-11-09T14:35:25.146681+00:00 web01 sshd[2147]: Failed password for root from 203.0.113.9 port 49479 ssh2
+2026-11-09T14:35:31.199577+00:00 web01 sshd[35919]: Failed password for root from 203.0.113.9 port 37614 ssh2
+2026-11-09T14:35:33.085943+00:00 web01 sshd[4811]: Failed password for root from 203.0.113.9 port 64543 ssh2
+2026-11-09T14:35:40.389397+00:00 web01 CRON[23402]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:35:50.213716+00:00 web01 sshd[19540]: Failed password for root from 203.0.113.9 port 44798 ssh2
+2026-11-09T14:35:55.234375+00:00 web01 CRON[31674]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:36:08.076719+00:00 web01 sshd[13984]: Failed password for root from 203.0.113.9 port 39706 ssh2
+2026-11-09T14:36:13.535888+00:00 web01 sshd[20245]: Failed password for root from 203.0.113.9 port 51539 ssh2
+2026-11-09T14:36:39.808126+00:00 web01 sshd[29618]: Failed password for root from 203.0.113.9 port 30320 ssh2
+2026-11-09T14:37:11.019611+00:00 web01 sshd[21530]: Failed password for root from 203.0.113.9 port 30668 ssh2
+2026-11-09T14:37:39.759995+00:00 web01 sshd[22571]: Failed password for root from 203.0.113.9 port 39683 ssh2
+2026-11-09T14:37:50.252692+00:00 web01 sshd[5591]: Failed password for root from 203.0.113.9 port 55751 ssh2
+2026-11-09T14:38:15.943942+00:00 web01 sshd[18404]: Failed password for root from 203.0.113.9 port 55790 ssh2
+2026-11-09T14:38:45.370001+00:00 web01 sshd[31486]: Failed password for root from 203.0.113.9 port 42145 ssh2
+2026-11-09T14:38:50.753506+00:00 web01 sshd[17240]: Failed password for root from 203.0.113.9 port 32430 ssh2
+2026-11-09T14:39:11.590844+00:00 web01 sshd[29125]: Failed password for root from 203.0.113.9 port 41302 ssh2
+2026-11-09T14:39:41.707413+00:00 web01 sshd[22736]: Failed password for root from 203.0.113.9 port 58828 ssh2
+2026-11-09T14:40:07.571984+00:00 web01 sshd[32282]: Failed password for root from 203.0.113.9 port 35613 ssh2
+2026-11-09T14:40:25.380544+00:00 web01 sshd[5060]: Failed password for root from 203.0.113.9 port 62695 ssh2
+2026-11-09T14:40:50.939273+00:00 web01 sshd[23858]: Failed password for root from 203.0.113.9 port 63117 ssh2
+2026-11-09T14:41:25.486033+00:00 web01 sshd[9128]: Failed password for root from 203.0.113.9 port 61800 ssh2
+2026-11-09T14:41:27.627081+00:00 web01 sshd[3271]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:41:57.024559+00:00 web01 sshd[24800]: Failed password for root from 203.0.113.9 port 32479 ssh2
+2026-11-09T14:42:04.177234+00:00 web01 sshd[13110]: Failed password for root from 203.0.113.9 port 55043 ssh2
+2026-11-09T14:42:38.109317+00:00 web01 sshd[34182]: Failed password for root from 203.0.113.9 port 35428 ssh2
+2026-11-09T14:43:06.180694+00:00 web01 sshd[32796]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T14:43:09.484095+00:00 web01 sshd[29269]: Failed password for root from 203.0.113.9 port 54850 ssh2
+2026-11-09T14:43:19.271616+00:00 web01 sshd[17033]: Failed password for root from 203.0.113.9 port 44222 ssh2
+2026-11-09T14:43:22.993207+00:00 web01 sshd[9267]: Failed password for root from 203.0.113.9 port 59065 ssh2
+2026-11-09T14:43:41.472473+00:00 web01 sshd[37613]: Failed password for root from 203.0.113.9 port 42696 ssh2
+2026-11-09T14:43:46.750405+00:00 web01 sshd[8709]: Failed password for root from 203.0.113.9 port 52977 ssh2
+2026-11-09T14:44:03.816574+00:00 web01 sshd[12396]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T14:44:15.028815+00:00 web01 sshd[12782]: Failed password for root from 203.0.113.9 port 40262 ssh2
+2026-11-09T14:44:43.539987+00:00 web01 sshd[18487]: Failed password for root from 203.0.113.9 port 36520 ssh2
+2026-11-09T14:45:23.606310+00:00 web01 sshd[12204]: Failed password for root from 203.0.113.9 port 49847 ssh2
+2026-11-09T14:45:39.312801+00:00 web01 sshd[20347]: Failed password for root from 203.0.113.9 port 50777 ssh2
+2026-11-09T14:46:14.661933+00:00 web01 sshd[14559]: Failed password for root from 203.0.113.9 port 33787 ssh2
+2026-11-09T14:46:28.612548+00:00 web01 sshd[1905]: Failed password for root from 203.0.113.9 port 60567 ssh2
+2026-11-09T14:47:17.479870+00:00 web01 sshd[28912]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T14:48:17.447782+00:00 web01 sshd[30685]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:48:19.908001+00:00 web01 sshd[23490]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:49:26.932029+00:00 web01 sshd[6393]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:51:30.771845+00:00 web01 CRON[16848]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:51:45.983741+00:00 web01 CRON[6613]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:53:37.805494+00:00 web01 CRON[29842]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:54:14.474345+00:00 web01 CRON[24466]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:54:37.701870+00:00 web01 sshd[35040]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T14:56:47.701912+00:00 web01 sshd[27866]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T14:57:26.671209+00:00 web01 CRON[29385]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T14:58:34.440824+00:00 web01 sshd[13234]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T14:58:34.622175+00:00 web01 CRON[8855]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T15:01:19.440374+00:00 web01 CRON[20807]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T15:10:49.113189+00:00 web01 sshd[34201]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T15:11:29.904541+00:00 web01 sshd[5056]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T15:13:27.246430+00:00 web01 sshd[20327]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T15:17:11.692247+00:00 web01 sshd[21600]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T15:21:23.840566+00:00 web01 sshd[12812]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T15:23:49.682476+00:00 web01 sshd[16815]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T15:24:24.496040+00:00 web01 sshd[36527]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T15:25:17.008123+00:00 web01 CRON[24390]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T15:25:50.242265+00:00 web01 sshd[31297]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T15:28:29.475711+00:00 web01 sshd[29531]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T15:29:18.979013+00:00 web01 sshd[17143]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T15:30:28.657624+00:00 web01 sshd[33283]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T15:31:24.067486+00:00 web01 sshd[28430]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T15:33:23.108739+00:00 web01 sshd[27535]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T15:34:32.717790+00:00 web01 sshd[34778]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T15:36:03.461177+00:00 web01 sshd[1104]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T15:39:23.394043+00:00 web01 sshd[29526]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T15:39:45.964861+00:00 web01 CRON[19685]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T15:40:18.152162+00:00 web01 sshd[10774]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T15:40:36.636891+00:00 web01 sshd[28269]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T15:42:21.356621+00:00 web01 sshd[16799]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T15:44:01.379262+00:00 web01 CRON[1765]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T15:44:45.078032+00:00 web01 sshd[35512]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T15:47:01.739808+00:00 web01 sshd[22785]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T15:51:48.937056+00:00 web01 sshd[39860]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T15:51:59.861027+00:00 web01 CRON[27917]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T15:54:24.992390+00:00 web01 sshd[30170]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T15:54:39.284947+00:00 web01 sshd[33443]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T15:54:50.376003+00:00 web01 sshd[32482]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T15:55:18.885343+00:00 web01 CRON[23350]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T15:56:28.543201+00:00 web01 CRON[17264]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T15:56:36.313432+00:00 web01 sshd[10184]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T15:57:08.393956+00:00 web01 sshd[30002]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T15:57:22.696565+00:00 web01 sshd[11776]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T16:00:57.901668+00:00 web01 sshd[34013]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:01:45.643193+00:00 web01 sshd[11673]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:04:26.230611+00:00 web01 CRON[10209]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T16:05:03.200209+00:00 web01 CRON[27350]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T16:05:51.205100+00:00 web01 CRON[35219]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T16:06:41.707843+00:00 web01 sshd[35934]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T16:07:48.083743+00:00 web01 sshd[35497]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:10:19.887729+00:00 web01 sshd[15861]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T16:10:22.214149+00:00 web01 sshd[19342]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T16:11:08.223158+00:00 web01 sshd[10856]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:11:46.469134+00:00 web01 sshd[27969]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:12:05.907655+00:00 web01 sshd[28181]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:12:28.590240+00:00 web01 CRON[21059]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T16:13:04.330061+00:00 web01 CRON[20142]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T16:13:28.625084+00:00 web01 sshd[24633]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T16:14:00.695931+00:00 web01 sshd[14416]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T16:15:03.574279+00:00 web01 sshd[25677]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T16:21:27.763312+00:00 web01 sshd[34519]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:27:12.052316+00:00 web01 sshd[8182]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:28:44.435818+00:00 web01 sshd[1368]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:31:12.861150+00:00 web01 sshd[3557]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:32:10.134826+00:00 web01 sshd[38594]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T16:32:21.747607+00:00 web01 CRON[38680]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T16:37:28.501126+00:00 web01 CRON[38685]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T16:39:26.046135+00:00 web01 sshd[10704]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T16:39:43.671232+00:00 web01 CRON[6400]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T16:40:19.067292+00:00 web01 CRON[24696]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T16:44:17.884097+00:00 web01 sshd[4513]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T16:45:13.037921+00:00 web01 sshd[24738]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T16:45:42.655460+00:00 web01 CRON[17292]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T16:47:24.689669+00:00 web01 sshd[9040]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:47:34.423590+00:00 web01 sshd[38211]: Accepted publickey for bob from 192.0.2.24 port 59007 ssh2: ED25519 SHA256:COzydtL06SKd10hkiZBVG8YG2iPWKbNUeEC5NrOfboq
+2026-11-09T16:48:34.974267+00:00 web01 sshd[24903]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T16:50:00.855586+00:00 web01 sshd[38493]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T16:51:33.972836+00:00 web01 sshd[33634]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T16:52:28.233018+00:00 web01 sshd[12152]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:55:11.173884+00:00 web01 sshd[13229]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T16:57:52.816390+00:00 web01 sshd[3302]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:00:05.227376+00:00 web01 sshd[31241]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:01:50.201156+00:00 web01 CRON[17708]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:02:09.877290+00:00 web01 sshd[31793]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:04:01.449966+00:00 web01 sshd[1840]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T17:07:16.298654+00:00 web01 sshd[38612]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T17:07:40.726833+00:00 web01 sshd[12660]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:07:53.091403+00:00 web01 sshd[34667]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:09:24.929206+00:00 web01 sshd[26719]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:10:20.540880+00:00 web01 CRON[39488]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:11:08.490077+00:00 web01 sshd[15639]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T17:12:55.324650+00:00 web01 sshd[33688]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:14:39.289735+00:00 web01 sshd[8405]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:17:23.783413+00:00 web01 sshd[26882]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T17:19:47.055467+00:00 web01 CRON[29714]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:23:55.991982+00:00 web01 sshd[16927]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:24:50.174108+00:00 web01 sshd[37984]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:25:18.305174+00:00 web01 CRON[25669]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:27:10.404387+00:00 web01 sshd[33407]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:27:47.776580+00:00 web01 sshd[22502]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:28:52.776186+00:00 web01 sshd[25631]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:31:12.888742+00:00 web01 sshd[27253]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:32:26.184383+00:00 web01 sshd[38031]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:33:12.303013+00:00 web01 CRON[9087]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:33:18.867971+00:00 web01 sshd[25051]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:35:37.503523+00:00 web01 CRON[33188]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:35:39.968491+00:00 web01 CRON[35192]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:36:39.152675+00:00 web01 sshd[20715]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:37:47.076860+00:00 web01 sshd[16074]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:37:59.801861+00:00 web01 sshd[5241]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:38:12.015479+00:00 web01 sshd[15668]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:38:14.676502+00:00 web01 sshd[24471]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T17:38:26.151020+00:00 web01 CRON[25474]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:38:46.017179+00:00 web01 sshd[37409]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:38:56.488996+00:00 web01 sshd[22160]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:39:03.714007+00:00 web01 sshd[16465]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:39:59.141297+00:00 web01 sshd[27171]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:42:16.639152+00:00 web01 sshd[23624]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:42:37.210851+00:00 web01 sshd[25726]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:44:07.422568+00:00 web01 sshd[8699]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:44:08.204195+00:00 web01 sshd[39788]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T17:45:53.657374+00:00 web01 sshd[36965]: Accepted publickey for deploy from 192.0.2.31 port 51319 ssh2: ED25519 SHA256:l5QOlru5emSwTXYI7hfC1x1PqygpO22pJEXCgM768Si
+2026-11-09T17:46:14.337278+00:00 web01 sshd[20004]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T17:46:16.661605+00:00 web01 CRON[25435]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:47:55.879187+00:00 web01 CRON[10341]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:50:27.155281+00:00 web01 CRON[15785]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:51:21.863984+00:00 web01 sshd[19145]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:52:01.057513+00:00 web01 sshd[26768]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:53:50.426001+00:00 web01 sshd[28297]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T17:55:59.115286+00:00 web01 CRON[25735]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T17:56:04.222041+00:00 web01 sshd[13371]: Accepted publickey for bob from 192.0.2.24 port 48846 ssh2: ED25519 SHA256:Tr625BlbTFxRERzQnRC219MzqHm4QPLqszMie2EGaDh
+2026-11-09T17:58:27.794336+00:00 web01 sshd[36347]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T17:58:37.081037+00:00 web01 sshd[29555]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T17:58:54.793949+00:00 web01 sshd[38847]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:01:48.809635+00:00 web01 sshd[35500]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:01:55.807790+00:00 web01 sshd[17184]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:02:01.534078+00:00 web01 CRON[26199]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T18:08:01.566175+00:00 web01 sshd[14054]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:08:21.410313+00:00 web01 sshd[10557]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:08:45.104437+00:00 web01 sshd[33498]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:09:16.639250+00:00 web01 sshd[39345]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:09:31.194974+00:00 web01 sshd[12846]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:11:21.864758+00:00 web01 sshd[24895]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:14:16.923474+00:00 web01 sshd[30632]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:15:59.996046+00:00 web01 sshd[23046]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:17:29.376032+00:00 web01 sshd[3755]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:17:42.714645+00:00 web01 sshd[9896]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:20:31.760388+00:00 web01 CRON[8312]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T18:20:36.766132+00:00 web01 CRON[38445]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T18:21:04.915994+00:00 web01 sshd[16203]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:24:34.739663+00:00 web01 sshd[7077]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:25:16.402004+00:00 web01 sshd[29505]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:25:28.090396+00:00 web01 sshd[35994]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:25:29.688688+00:00 web01 sshd[17279]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:26:06.958283+00:00 web01 CRON[28585]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T18:26:15.173590+00:00 web01 sshd[3170]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:27:02.316518+00:00 web01 CRON[28872]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T18:30:55.139765+00:00 web01 CRON[34649]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T18:34:54.104428+00:00 web01 sshd[29383]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:35:22.384855+00:00 web01 CRON[34220]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T18:36:04.569331+00:00 web01 sshd[9393]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:36:06.052068+00:00 web01 sshd[18776]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:37:08.167503+00:00 web01 sshd[15672]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:38:25.320358+00:00 web01 sshd[15535]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:39:11.653521+00:00 web01 sshd[4392]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:39:12.335631+00:00 web01 sshd[16064]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:39:47.631665+00:00 web01 sshd[13694]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:39:53.436663+00:00 web01 sshd[28448]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:44:09.154142+00:00 web01 sshd[27322]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:44:12.127664+00:00 web01 sshd[15889]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:45:12.655411+00:00 web01 CRON[25928]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T18:45:52.008750+00:00 web01 CRON[13412]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T18:47:20.104438+00:00 web01 sshd[3738]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:47:27.221619+00:00 web01 sshd[6187]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:55:42.320630+00:00 web01 sshd[34086]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:56:16.181740+00:00 web01 CRON[32665]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T18:58:01.226329+00:00 web01 sshd[9786]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T18:58:01.451900+00:00 web01 sshd[38925]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:58:11.762984+00:00 web01 sshd[35145]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T18:58:57.558155+00:00 web01 sshd[14931]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T18:59:59.557473+00:00 web01 sshd[23767]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:02:41.895399+00:00 web01 CRON[16947]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:02:44.589448+00:00 web01 CRON[19105]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:04:51.750657+00:00 web01 sshd[18884]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T19:06:34.890238+00:00 web01 sshd[22913]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:06:48.513297+00:00 web01 sshd[29499]: Accepted publickey for alice from 192.0.2.10 port 60278 ssh2: ED25519 SHA256:ZcsHXYEUPjsPGLVZfofr5piwSXYfvG5OJrrt6DmC7mj
+2026-11-09T19:08:27.350328+00:00 web01 sshd[38211]: Accepted publickey for bob from 192.0.2.24 port 55715 ssh2: ED25519 SHA256:kOu8PMqq1poDnpBgv2smF5f8es4iZOP6h9Le21sGjYC
+2026-11-09T19:08:27.526225+00:00 web01 sshd[19828]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:10:06.093799+00:00 web01 sshd[9085]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T19:11:11.465500+00:00 web01 CRON[12783]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:12:04.323266+00:00 web01 CRON[22118]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:13:55.692765+00:00 web01 sshd[38429]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T19:15:25.327330+00:00 web01 CRON[17784]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:16:41.749968+00:00 web01 sshd[29571]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T19:18:34.078182+00:00 web01 CRON[13541]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:19:56.465072+00:00 web01 CRON[38386]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:21:05.251060+00:00 web01 CRON[13758]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:22:48.625751+00:00 web01 sshd[4564]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T19:23:29.399323+00:00 web01 CRON[20064]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:24:56.744363+00:00 web01 sshd[35795]: Accepted publickey for alice from 192.0.2.10 port 59195 ssh2: ED25519 SHA256:twUnW9Yrv1Wan3fp3ZtTBVHPK0q5llxhn88vE73DBMG
+2026-11-09T19:25:13.062952+00:00 web01 sshd[22901]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:26:21.934141+00:00 web01 sshd[29756]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:29:44.425210+00:00 web01 CRON[24133]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:30:44.363942+00:00 web01 sshd[6933]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T19:31:31.178913+00:00 web01 sshd[12534]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:35:38.175897+00:00 web01 sshd[1978]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:35:47.896571+00:00 web01 sshd[9194]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T19:37:25.671945+00:00 web01 CRON[27690]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:37:56.420802+00:00 web01 sshd[38222]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T19:41:58.551668+00:00 web01 sshd[23399]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:42:34.048920+00:00 web01 sshd[7414]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:44:42.272637+00:00 web01 sshd[10323]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:47:08.999593+00:00 web01 CRON[19596]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:50:26.535632+00:00 web01 CRON[32635]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:51:24.211465+00:00 web01 sshd[13889]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:51:48.956676+00:00 web01 sshd[27006]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:52:04.869807+00:00 web01 sshd[4078]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T19:56:38.972346+00:00 web01 sshd[13704]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:56:47.148684+00:00 web01 sshd[11997]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T19:57:46.431435+00:00 web01 CRON[15166]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T19:58:29.099003+00:00 web01 sshd[21966]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T19:58:44.177626+00:00 web01 sshd[31967]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T20:00:04.062035+00:00 web01 sshd[1050]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T20:01:15.418102+00:00 web01 sshd[15312]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T20:01:47.764244+00:00 web01 sshd[38068]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T20:04:38.506921+00:00 web01 sshd[29928]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T20:04:52.130493+00:00 web01 sshd[2551]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T20:06:38.772996+00:00 web01 CRON[24697]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T20:12:54.791279+00:00 web01 sshd[5328]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T20:13:22.808360+00:00 web01 CRON[1680]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T20:15:23.278537+00:00 web01 sshd[4609]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T20:15:34.108155+00:00 web01 sshd[22019]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T20:15:43.565693+00:00 web01 sshd[36840]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T20:17:46.755229+00:00 web01 CRON[1315]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T20:19:28.552641+00:00 web01 sshd[22796]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T20:22:53.994701+00:00 web01 CRON[39999]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T20:27:25.295722+00:00 web01 sshd[21559]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T20:28:20.673767+00:00 web01 sshd[10571]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T20:28:56.743175+00:00 web01 sshd[32380]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T20:29:18.813118+00:00 web01 sshd[18369]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T20:31:48.806371+00:00 web01 sshd[29644]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T20:31:57.008078+00:00 web01 sshd[32306]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T20:34:12.098993+00:00 web01 sshd[5643]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T20:36:17.387004+00:00 web01 sshd[38525]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T20:36:42.171949+00:00 web01 CRON[10161]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T20:37:46.449684+00:00 web01 sshd[12310]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T20:40:38.613136+00:00 web01 CRON[16556]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T20:43:02.679161+00:00 web01 sshd[10303]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T20:46:09.131463+00:00 web01 sshd[8820]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T20:48:08.189901+00:00 web01 sshd[22988]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T20:50:31.053559+00:00 web01 CRON[28770]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T20:51:13.868523+00:00 web01 CRON[31483]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T20:53:34.715649+00:00 web01 sshd[37915]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T20:57:22.507933+00:00 web01 sshd[6924]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T20:59:42.309083+00:00 web01 CRON[24918]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:04:40.459726+00:00 web01 sshd[18121]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T21:05:35.181062+00:00 web01 sshd[38382]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:07:34.789064+00:00 web01 sshd[28134]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T21:08:14.607752+00:00 web01 sshd[23591]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:08:29.510947+00:00 web01 sshd[11890]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T21:09:00.769189+00:00 web01 sshd[11602]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T21:09:41.212585+00:00 web01 sshd[19473]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T21:12:16.107700+00:00 web01 sshd[24591]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T21:13:52.978104+00:00 web01 sshd[13997]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:14:56.066554+00:00 web01 CRON[9579]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:14:59.337501+00:00 web01 sshd[23707]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:15:14.888491+00:00 web01 sshd[22727]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:16:10.684595+00:00 web01 sshd[38942]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T21:18:28.513458+00:00 web01 CRON[3215]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:18:48.175192+00:00 web01 sshd[30782]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:19:19.580179+00:00 web01 CRON[31289]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:19:35.710218+00:00 web01 CRON[22050]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:19:47.479335+00:00 web01 sshd[28755]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T21:19:47.793141+00:00 web01 sshd[31397]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:21:32.476638+00:00 web01 sshd[14104]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T21:23:30.172887+00:00 web01 sshd[23429]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:25:53.317986+00:00 web01 sshd[12203]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T21:26:25.118883+00:00 web01 sshd[3492]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:26:25.336939+00:00 web01 CRON[5050]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:31:36.426677+00:00 web01 CRON[38516]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:32:11.038185+00:00 web01 CRON[39492]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:33:02.313598+00:00 web01 CRON[6623]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:33:31.997793+00:00 web01 CRON[17190]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:33:36.153497+00:00 web01 CRON[10565]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:34:21.648708+00:00 web01 sshd[2442]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:34:23.235879+00:00 web01 sshd[21232]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T21:35:39.632657+00:00 web01 CRON[33625]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:35:53.097968+00:00 web01 sshd[9501]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:36:04.449191+00:00 web01 sshd[2446]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T21:38:15.310226+00:00 web01 sshd[28472]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:38:24.027613+00:00 web01 sshd[32047]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T21:39:26.612667+00:00 web01 CRON[38714]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:39:51.245238+00:00 web01 sshd[2980]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T21:40:52.171080+00:00 web01 sshd[9468]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T21:40:59.927977+00:00 web01 sshd[17249]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T21:41:42.331461+00:00 web01 sshd[2566]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T21:42:08.674749+00:00 web01 sshd[23517]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T21:42:18.942643+00:00 web01 sshd[22006]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T21:42:21.750401+00:00 web01 sshd[10033]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T21:44:55.352154+00:00 web01 sshd[30264]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T21:45:02.679936+00:00 web01 CRON[18677]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:48:21.742517+00:00 web01 CRON[31970]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:51:46.330568+00:00 web01 CRON[19375]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:51:52.470592+00:00 web01 CRON[38097]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:54:16.561094+00:00 web01 sshd[10862]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T21:54:38.232239+00:00 web01 CRON[39809]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T21:55:06.648845+00:00 web01 sshd[33847]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T22:00:37.074563+00:00 web01 CRON[4123]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T22:01:14.828753+00:00 web01 sshd[37310]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:02:29.672647+00:00 web01 sshd[31152]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T22:02:43.383007+00:00 web01 sshd[21971]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:02:44.438977+00:00 web01 sshd[11747]: Accepted publickey for deploy from 192.0.2.31 port 53120 ssh2: ED25519 SHA256:G2SrHudmnTHFEMw8DSgR4qFPWFBxs3VowpUr8QzKXEJ
+2026-11-09T22:07:22.443080+00:00 web01 sshd[8594]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T22:09:27.115638+00:00 web01 sshd[34408]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T22:09:58.381181+00:00 web01 sshd[37075]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:12:07.471862+00:00 web01 sshd[31532]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T22:12:18.969826+00:00 web01 sshd[17993]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:13:15.202252+00:00 web01 CRON[15171]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T22:18:08.683009+00:00 web01 CRON[26141]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T22:19:37.948577+00:00 web01 sshd[38686]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T22:21:41.323089+00:00 web01 sshd[15355]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T22:23:19.156238+00:00 web01 sshd[39117]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T22:26:01.621357+00:00 web01 CRON[33869]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T22:26:26.901814+00:00 web01 CRON[30018]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T22:26:39.042802+00:00 web01 CRON[14156]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T22:28:40.413463+00:00 web01 sshd[17717]: Failed password for deploy from 192.0.2.31 port 62186 ssh2
+2026-11-09T22:28:46.413463+00:00 web01 sshd[14250]: Accepted publickey for deploy from 192.0.2.31 port 64930 ssh2: ED25519 SHA256:ICxLsOJB2Shgg7nQv0UGLf1rpkTB8DrZGMajpxwxfMc
+2026-11-09T22:28:52.104054+00:00 web01 CRON[19598]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T22:28:52.859295+00:00 web01 sshd[21100]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T22:32:25.448453+00:00 web01 CRON[34246]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T22:32:35.768847+00:00 web01 CRON[35230]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T22:32:59.992501+00:00 web01 sshd[26506]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T22:34:24.730566+00:00 web01 CRON[2369]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T22:34:31.034101+00:00 web01 sshd[29181]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T22:36:41.862191+00:00 web01 sshd[38577]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:37:42.259147+00:00 web01 sshd[9212]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:40:21.283013+00:00 web01 sshd[22151]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T22:40:27.111027+00:00 web01 sshd[20680]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T22:42:40.369518+00:00 web01 sshd[20259]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:45:57.073367+00:00 web01 sshd[16085]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T22:46:27.243634+00:00 web01 sshd[27262]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T22:46:51.978397+00:00 web01 sshd[2420]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T22:46:57.931370+00:00 web01 CRON[17620]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T22:50:45.665182+00:00 web01 sshd[27330]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:52:05.426726+00:00 web01 sshd[24495]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T22:53:56.976778+00:00 web01 sshd[29463]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:56:52.294836+00:00 web01 sshd[25403]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:57:03.899407+00:00 web01 sshd[5087]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:59:20.195710+00:00 web01 sshd[35741]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T22:59:36.341880+00:00 web01 CRON[17982]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T23:02:14.693367+00:00 web01 CRON[6440]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T23:06:10.246657+00:00 web01 sshd[19543]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T23:06:12.326748+00:00 web01 sshd[4427]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T23:08:41.982644+00:00 web01 sshd[24028]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T23:09:05.074930+00:00 web01 sshd[13586]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T23:09:16.278205+00:00 web01 sshd[28802]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T23:14:41.338220+00:00 web01 CRON[8075]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T23:16:26.394265+00:00 web01 sshd[21956]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T23:17:59.915899+00:00 web01 sshd[27443]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T23:18:12.762853+00:00 web01 sshd[19331]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T23:18:58.139426+00:00 web01 sshd[23343]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T23:19:12.620557+00:00 web01 sshd[2323]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T23:19:33.970903+00:00 web01 sshd[25900]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T23:23:35.611931+00:00 web01 sshd[23494]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T23:25:24.084292+00:00 web01 sshd[18156]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T23:28:07.362084+00:00 web01 sshd[39381]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T23:31:03.341914+00:00 web01 sshd[31888]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T23:33:52.599955+00:00 web01 sshd[35583]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T23:38:23.861461+00:00 web01 sshd[27304]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T23:38:56.096944+00:00 web01 sshd[24418]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T23:40:46.068424+00:00 web01 CRON[17316]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T23:41:10.270527+00:00 web01 sshd[12440]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T23:41:13.612213+00:00 web01 sshd[39339]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T23:42:59.586075+00:00 web01 sshd[19062]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T23:43:18.210672+00:00 web01 sshd[34276]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T23:44:26.689323+00:00 web01 sshd[26681]: pam_unix(sshd:session): session closed for user deploy
+2026-11-09T23:46:39.201951+00:00 web01 CRON[13284]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T23:48:06.122538+00:00 web01 sshd[38291]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T23:48:09.300346+00:00 web01 CRON[12002]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-11-09T23:54:34.066007+00:00 web01 sshd[2944]: Accepted publickey for alice from 192.0.2.10 port 53836 ssh2: ED25519 SHA256:mjX7FysWNr94sPSTUSCaVF3vQR22DIeexVl8obk2htM
+2026-11-09T23:56:44.789762+00:00 web01 sshd[35406]: Connection closed by 192.0.2.24 port 50122
+2026-11-09T23:57:40.824978+00:00 web01 sshd[32187]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user
+2026-11-09T23:59:27.522349+00:00 web01 sshd[13881]: Received disconnect from 192.0.2.31 port 52210:11: disconnected by user

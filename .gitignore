@@ -12,3 +12,5 @@ ai_summary.txt
 conversation.json
 # episode 31: the addresses a person blocked (a demo file, not a firewall)
 blocklist.txt
+# episode 32: every decision, with the time
+audit.log
