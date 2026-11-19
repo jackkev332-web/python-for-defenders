@@ -39,7 +39,7 @@ Series trailer: https://youtu.be/wD-6ig3VVv0
 | 28 | Watchdog v4.0: one tool, the whole chapter | Advanced | [ch4/ep28](ch4/ep28) | [watch](https://youtu.be/mOv5RyeEwew) |
 | 29 | Tool calling: let the AI ask your code | Expert | [ch5/ep29](ch5/ep29) | [watch](https://youtu.be/35qNkVisLCY) |
 | 30 | An agent loop: many tools, one step limit | Expert | [ch5/ep30](ch5/ep30) | [watch](https://youtu.be/TQlc4yuOa2Y) |
-| 31 | Guardrails: the agent proposes, a person decides | Expert | [ch5/ep31](ch5/ep31) | coming soon |
+| 31 | Guardrails: the agent proposes, a person decides | Expert | [ch5/ep31](ch5/ep31) | [watch](https://youtu.be/LzqTJDyxq4k) |
 
 ## How to use
 
