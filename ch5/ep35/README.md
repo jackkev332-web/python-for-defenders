@@ -2,7 +2,7 @@
 
 Python for Defenders · Chapter 5: AI for defenders (Expert)
 
-Video: coming soon
+Video: https://youtu.be/0uZla_WPxk0
 
 ## Before you start
 
